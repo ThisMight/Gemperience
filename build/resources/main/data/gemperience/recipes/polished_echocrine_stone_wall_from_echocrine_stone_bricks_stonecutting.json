@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "gemperience:echocrine_stone_bricks"
+  },
+  "result": "gemperience:polished_echocrine_stone_wall"
+}

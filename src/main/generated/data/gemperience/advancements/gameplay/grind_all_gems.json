@@ -1,0 +1,119 @@
+{
+  "parent": "gemperience:gameplay/crush_first_gem",
+  "criteria": {
+    "ground_amalgamite": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_antholium": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_biolium": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_chitinous_growth": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_cobgalite": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_denarium": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_glazonium": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_jadestone": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_petrinite_bulb": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_petrinite_roots": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_petrinite_rose": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_raw_dyanite": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_ruby": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_runian": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_slagodite": {
+      "trigger": "minecraft:impossible"
+    },
+    "ground_spironite": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.grind_all_gems.desc"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:dyanite"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.grind_all_gems.title"
+    }
+  },
+  "requirements": [
+    [
+      "ground_raw_dyanite"
+    ],
+    [
+      "ground_amalgamite"
+    ],
+    [
+      "ground_cobgalite"
+    ],
+    [
+      "ground_spironite"
+    ],
+    [
+      "ground_petrinite_bulb"
+    ],
+    [
+      "ground_petrinite_rose"
+    ],
+    [
+      "ground_petrinite_roots"
+    ],
+    [
+      "ground_denarium"
+    ],
+    [
+      "ground_glazonium"
+    ],
+    [
+      "ground_slagodite"
+    ],
+    [
+      "ground_jadestone"
+    ],
+    [
+      "ground_runian"
+    ],
+    [
+      "ground_ruby"
+    ],
+    [
+      "ground_antholium"
+    ],
+    [
+      "ground_chitinous_growth"
+    ],
+    [
+      "ground_biolium"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "gemperience:block/neurostone",
+    "side": "gemperience:block/neurostone",
+    "top": "gemperience:block/neurostone"
+  }
+}

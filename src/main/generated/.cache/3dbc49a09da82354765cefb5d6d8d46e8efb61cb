@@ -1,0 +1,11 @@
+// 1.20.1	2023-12-07T22:02:47.4995741	Gemperience/Tags for minecraft:block
+8b14e99d969f031a75c82be8401d090aff01641f data\minecraft\tags\blocks\needs_iron_tool.json
+72d624d3b06accedcd5b8de4bda78bcd45837e0f data\minecraft\tags\blocks\mineable\pickaxe.json
+9cb1e581c57770fa988bf670f5223a20bbfe04be data\minecraft\tags\blocks\soul_fire_base_blocks.json
+b5743d1e11fff6dbdba8537b0fed6347b3864cc8 data\minecraft\tags\blocks\needs_diamond_tool.json
+69aa711cfac2cfe409066517344bb26af3ffda40 data\minecraft\tags\blocks\infiniburn_overworld.json
+69aa711cfac2cfe409066517344bb26af3ffda40 data\minecraft\tags\blocks\infiniburn_nether.json
+69aa711cfac2cfe409066517344bb26af3ffda40 data\minecraft\tags\blocks\infiniburn_end.json
+d875edffd66abb310915b29cbdfb0775b08ee7b3 data\minecraft\tags\blocks\needs_stone_tool.json
+7789997bfd17c95a14c09f7ab1fe190abfd6b842 data\minecraft\tags\blocks\walls.json
+1f3fbc494f5735ddb7cc0a0e10f49afe46ba417a data\minecraft\tags\blocks\mineable\shovel.json

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "gemperience:block/polished_echocrine_stone",
+    "side": "gemperience:block/polished_echocrine_stone",
+    "top": "gemperience:block/polished_echocrine_stone"
+  }
+}

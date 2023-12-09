@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "gemperience:block/illuminium",
+    "side": "gemperience:block/illuminium",
+    "top": "gemperience:block/illuminium"
+  }
+}

@@ -1,0 +1,736 @@
+{
+  "gemperience:recipes/building_blocks/voidstone_slab": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/voidstone_bricks_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_brick_stairs_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/soulstone_stairs_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_marrowshale": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_chiseled_soulstone_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-23 16:39:26 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/collectors_item": {
+    "criteria": {
+      "gotten_illuminium": "2023-11-23 16:38:55 +0100",
+      "gotten_neurostone": "2023-11-23 16:39:18 +0100",
+      "gotten_echocrine_stone": "2023-11-23 16:39:41 +0100",
+      "gotten_soulstone": "2023-11-23 16:39:25 +0100",
+      "gotten_voidstone": "2023-11-23 16:39:59 +0100",
+      "gotten_tarshale": "2023-11-23 16:39:48 +0100",
+      "gotten_charged_soulstone": "2023-11-23 16:39:26 +0100",
+      "gotten_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/voidstone_get": {
+    "criteria": {
+      "gotten_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/neurostone_brick_wall_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_stairs_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_soulstone_stairs_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-23 16:39:26 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_brick_stairs_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cut_soulstone_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_soulstone_slab_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-23 16:39:26 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/soulstone_stairs": {
+    "criteria": {
+      "has_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/soulstone_wall_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_brick_wall_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_echocrine_stone_stairs_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_stairs_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_brick_slab_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_stairs_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_soulstone_wall_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-23 16:39:26 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_neurostone_wall_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_voidstone": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_wall": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/neurostone_brick_stairs_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_bricks_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-23 16:38:46 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/soulstone_slab": {
+    "criteria": {
+      "has_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_bricks_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/marrowshale_wall": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_slab": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/neurostone_wall": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/echocrine_stone_wall": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_brick_stairs_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_brick_stairs_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_illuminium": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_echocrine_stone_slab_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_brick_wall_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/marrowshale_stairs": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_slab_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_neurostone_slab_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/neurostone_stairs_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_wall_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/neurostone_slab_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/neurostone_bricks": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/voidstone_brick_wall_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_neurostone_stairs_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/voidstone_stairs": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_wall_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_stairs_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_brick_slab_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/voidstone_stairs_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_slab_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_neurostone_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/voidstone_wall_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_wall_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_slab_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_echocrine_stone": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/charged_soulstone_get": {
+    "criteria": {
+      "gotten_soulstone": "2023-11-23 16:39:26 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/neurostone_get": {
+    "criteria": {
+      "gotten_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/voidstone_brick_slab_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/smooth_soulstone_from_smelting_soulstone": {
+    "criteria": {
+      "has_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/voidstone_slab_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_wall_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/voidstone_wall": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/soulstone_get": {
+    "criteria": {
+      "gotten_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_stairs_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_echocrine_stone_wall_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/illuminium_get": {
+    "criteria": {
+      "gotten_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/neurostone_bricks_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_brick_slab_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_stairs": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_voidstone_stairs_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_wall_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_brick_slab_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-11-23 16:38:46 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/marrowshale_slab": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/neurostone_stairs": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/illuminium_slab": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_wall_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/voidstone_brick_stairs_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/neurostone_brick_slab_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/echocrine_stone_pillar": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/chiseled_echocrine_stone_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/echocrine_stone_stairs": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_echocrine_stone_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_wall_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/tarshale_get": {
+    "criteria": {
+      "gotten_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/neurostone_wall_from_neurostone_stonecutting": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/illuminium_stairs": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_tarshale": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/soulstone_slab_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_bricks_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_slab_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_slab_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_slab_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/chiseled_soulstone_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_cut_soulstone_slab_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-23 16:39:26 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_stairs_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/illuminium_wall": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tar_from_smelting_tarshale": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_brick_wall_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_voidstone_slab_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/echocrine_stone_slab": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_voidstone_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_bricks_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/marrowshale_get": {
+    "criteria": {
+      "gotten_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_pillar_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-11-23 16:39:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/soulstone_wall": {
+    "criteria": {
+      "has_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_slab_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-23 16:39:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cut_soulstone_slab_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-23 16:39:25 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_lamp": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_cut_soulstone_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-23 16:39:26 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/neurostone_slab": {
+    "criteria": {
+      "has_neurostone": "2023-11-23 16:39:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_voidstone_wall_from_voidstone_stonecutting": {
+    "criteria": {
+      "has_voidstone": "2023-11-23 16:39:59 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_brick_wall_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-11-23 16:39:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_stairs_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-11-23 16:38:55 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

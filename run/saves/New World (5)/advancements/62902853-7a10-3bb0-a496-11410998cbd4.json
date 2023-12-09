@@ -1,0 +1,33 @@
+{
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2023-12-04 20:08:11 +0100"
+    },
+    "done": false
+  },
+  "gemperience:recipes/misc/glazonium_from_blasting_glazonium_ore": {
+    "criteria": {
+      "has_glazonium_ore": "2023-12-04 20:08:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-12-04 20:07:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/glazonium_from_smelting_glazonium_ore": {
+    "criteria": {
+      "has_glazonium_ore": "2023-12-04 20:08:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-12-04 20:07:46 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

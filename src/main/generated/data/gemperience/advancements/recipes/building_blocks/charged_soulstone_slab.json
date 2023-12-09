@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_runian": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:runian"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_soulstone_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:runian"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "gemperience:charged_soulstone_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_soulstone_slab",
+      "has_runian",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "gemperience:charged_soulstone_slab"
+    ]
+  },
+  "sends_telemetry_event": false
+}

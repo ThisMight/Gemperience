@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "gemperience:block/charged_soulstone_bottom",
+    "side": "gemperience:block/charged_soulstone",
+    "top": "gemperience:block/soulstone_top"
+  }
+}

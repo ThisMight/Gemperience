@@ -1,0 +1,418 @@
+{
+  "gemperience:recipes/misc/marrowshale_brick_stairs_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_stairs_from_polished_tarshale_stonecutting": {
+    "criteria": {
+      "has_polished_tarshale": "2023-12-04 19:21:56 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_marrowshale": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_bricks": {
+    "criteria": {
+      "has_polished_tarshale": "2023-12-04 19:21:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-12-04 19:21:39 +0100",
+      "minecraft:soul_sand_valley": "2023-12-04 19:22:31 +0100"
+    },
+    "done": false
+  },
+  "gemperience:recipes/misc/tarshale_stairs_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_illuminium_wall": {
+    "criteria": {
+      "has_polished_illuminium": "2023-12-04 19:22:00 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_stairs_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_wall": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_tarshale_wall": {
+    "criteria": {
+      "has_polished_tarshale": "2023-12-04 19:21:56 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/illuminium_bricks": {
+    "criteria": {
+      "has_polished_illuminium": "2023-12-04 19:22:00 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_bricks_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-12-04 19:21:38 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_bricks_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/marrowshale_wall": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_slab": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_brick_stairs_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_brick_stairs_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_illuminium": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_brick_wall_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/marrowshale_stairs": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_slab_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_tarshale_slab": {
+    "criteria": {
+      "has_polished_tarshale": "2023-12-04 19:21:56 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_tarshale_stairs": {
+    "criteria": {
+      "has_polished_tarshale": "2023-12-04 19:21:56 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_wall_from_polished_tarshale_stonecutting": {
+    "criteria": {
+      "has_polished_tarshale": "2023-12-04 19:21:56 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/marrowshale_bricks": {
+    "criteria": {
+      "has_polished_marrowshale": "2023-12-04 19:22:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_wall_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_slab_from_polished_illuminium_stonecutting": {
+    "criteria": {
+      "has_polished_illuminium": "2023-12-04 19:22:00 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_stairs_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_brick_slab_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_slab_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_illuminium_stairs": {
+    "criteria": {
+      "has_polished_illuminium": "2023-12-04 19:22:00 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_wall_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_slab_from_polished_tarshale_stonecutting": {
+    "criteria": {
+      "has_polished_tarshale": "2023-12-04 19:21:56 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_slab_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_wall_from_polished_marrowshale_stonecutting": {
+    "criteria": {
+      "has_polished_marrowshale": "2023-12-04 19:22:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_marrowshale_slab": {
+    "criteria": {
+      "has_polished_marrowshale": "2023-12-04 19:22:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_wall_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_stairs_from_polished_marrowshale_stonecutting": {
+    "criteria": {
+      "has_polished_marrowshale": "2023-12-04 19:22:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_slab_from_polished_marrowshale_stonecutting": {
+    "criteria": {
+      "has_polished_marrowshale": "2023-12-04 19:22:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_stairs_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_brick_slab_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_stairs": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_wall_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_brick_slab_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-12-04 19:21:37 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/marrowshale_slab": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/illuminium_slab": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_wall_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_stairs_from_polished_illuminium_stonecutting": {
+    "criteria": {
+      "has_polished_illuminium": "2023-12-04 19:22:00 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_wall_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_illuminium_slab": {
+    "criteria": {
+      "has_polished_illuminium": "2023-12-04 19:22:00 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/illuminium_stairs": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_tarshale": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_slab_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_slab_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_marrowshale_stairs": {
+    "criteria": {
+      "has_polished_marrowshale": "2023-12-04 19:22:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_stairs_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/illuminium_wall": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_brick_wall_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_marrowshale_wall": {
+    "criteria": {
+      "has_polished_marrowshale": "2023-12-04 19:22:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_bricks_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_slab_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-12-04 19:21:52 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_illuminium_wall_from_polished_illuminium_stonecutting": {
+    "criteria": {
+      "has_polished_illuminium": "2023-12-04 19:22:00 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_brick_wall_from_tarshale_stonecutting": {
+    "criteria": {
+      "has_tarshale": "2023-12-04 19:21:47 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/illuminium_stairs_from_illuminium_stonecutting": {
+    "criteria": {
+      "has_illuminium": "2023-12-04 19:21:48 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

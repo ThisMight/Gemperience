@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_polished_marrowshale": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:polished_marrowshale"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:polished_marrowshale_wall_from_polished_marrowshale_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_polished_marrowshale",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:polished_marrowshale_wall_from_polished_marrowshale_stonecutting"
+    ]
+  },
+  "sends_telemetry_event": false
+}

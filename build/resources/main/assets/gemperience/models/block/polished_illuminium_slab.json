@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "gemperience:block/polished_illuminium",
+    "side": "gemperience:block/polished_illuminium",
+    "top": "gemperience:block/polished_illuminium"
+  }
+}

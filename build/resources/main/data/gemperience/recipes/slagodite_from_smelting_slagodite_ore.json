@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.5,
+  "group": "slagodite",
+  "ingredient": {
+    "item": "gemperience:slagodite_ore"
+  },
+  "result": "gemperience:slagodite"
+}

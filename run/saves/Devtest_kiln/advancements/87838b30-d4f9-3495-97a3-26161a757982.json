@@ -1,0 +1,123 @@
+{
+  "gemperience:recipes/misc/denitin_sword_smithing": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_leggings": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_chestplate": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denitin_block": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denitin_pickaxe_smithing": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_hoe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_pickaxe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denitin_hoe_smithing": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denitin_upgrade_smithing_template": {
+    "criteria": {
+      "has_denitin_upgrade_smithing_template": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_axe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_shovel": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2023-11-02 10:53:57 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_sword": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_helmet": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denitin_shovel_smithing": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denitin_axe_smithing": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_boots": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 10:53:15 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

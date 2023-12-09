@@ -1,0 +1,52 @@
+{
+  "gemperience:recipes/misc/ruby_block": {
+    "criteria": {
+      "has_ruby": "2023-10-09 22:53:06 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/raw_dyanite_get": {
+    "criteria": {
+      "needs_raw_dyanite": "2023-10-09 22:52:58 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-09 22:52:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-09 22:52:40 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_block": {
+    "criteria": {
+      "has_runian": "2023-10-09 22:53:03 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/experience_bottle": {
+    "criteria": {
+      "has_runian": "2023-10-09 22:53:03 +0200",
+      "has_echocrine_paste": "2023-10-09 22:53:03 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/raw_dyanite_block": {
+    "criteria": {
+      "has_raw_dyanite": "2023-10-09 22:52:58 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/runian_get": {
+    "criteria": {
+      "needs_runian": "2023-10-09 22:53:03 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

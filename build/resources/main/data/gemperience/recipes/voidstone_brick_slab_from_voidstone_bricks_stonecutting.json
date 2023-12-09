@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "gemperience:voidstone_bricks"
+  },
+  "result": "gemperience:voidstone_brick_slab"
+}

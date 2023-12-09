@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "d": {
+      "item": "gemperience:smooth_soulstone"
+    }
+  },
+  "pattern": [
+    "d  ",
+    "dd ",
+    "ddd"
+  ],
+  "result": {
+    "count": 4,
+    "item": "gemperience:smooth_soulstone_stairs"
+  },
+  "show_notification": true
+}

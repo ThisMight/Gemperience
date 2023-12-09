@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "gemperience:block/echocrine_stone_brick_slab"
+    },
+    "type=double": {
+      "model": "gemperience:block/echocrine_stone_bricks"
+    },
+    "type=top": {
+      "model": "gemperience:block/echocrine_stone_brick_slab_top"
+    }
+  }
+}

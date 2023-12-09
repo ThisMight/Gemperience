@@ -1,0 +1,38 @@
+{
+  "parent": "gemperience:root",
+  "criteria": {
+    "needs_slagodite": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:slagodite"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.slagodite_get.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:slagodite"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.slagodite_get.title"
+    }
+  },
+  "requirements": [
+    [
+      "needs_slagodite"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

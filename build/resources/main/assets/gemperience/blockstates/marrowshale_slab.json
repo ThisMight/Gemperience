@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "gemperience:block/marrowshale_slab"
+    },
+    "type=double": {
+      "model": "gemperience:block/marrowshale"
+    },
+    "type=top": {
+      "model": "gemperience:block/marrowshale_slab_top"
+    }
+  }
+}

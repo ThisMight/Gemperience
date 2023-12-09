@@ -1,0 +1,21 @@
+{
+  "gemperience:recipes/building_blocks/jadestone": {
+    "criteria": {
+      "has_jadestone_block": "2023-10-30 21:18:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-30 21:18:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-30 21:18:36 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

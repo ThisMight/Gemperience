@@ -1,0 +1,183 @@
+{
+  "gemperience:recipes/misc/marrowshale_brick_stairs_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_stairs_from_tarshale_bricks_stonecutting": {
+    "criteria": {
+      "has_tarshale_bricks": "2023-11-22 20:12:58 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_marrowshale": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_brick_slab": {
+    "criteria": {
+      "has_tarshale_bricks": "2023-11-22 20:12:58 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_brick_wall_from_tarshale_bricks_stonecutting": {
+    "criteria": {
+      "has_tarshale_bricks": "2023-11-22 20:12:58 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_from_smelting_biolium_ore": {
+    "criteria": {
+      "has_biolium_ore": "2023-11-22 20:14:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-11-22 20:12:30 +0100"
+    },
+    "done": false
+  },
+  "gemperience:recipes/misc/polished_tarshale_slab_from_tarshale_bricks_stonecutting": {
+    "criteria": {
+      "has_tarshale_bricks": "2023-11-22 20:12:58 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_bricks_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-22 20:12:29 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/marrowshale_wall": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/marrowshale_stairs": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_wall_from_tarshale_bricks_stonecutting": {
+    "criteria": {
+      "has_tarshale_bricks": "2023-11-22 20:12:58 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_stairs_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_brick_slab_from_tarshale_bricks_stonecutting": {
+    "criteria": {
+      "has_tarshale_bricks": "2023-11-22 20:12:58 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_wall_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_brick_stairs": {
+    "criteria": {
+      "has_tarshale_bricks": "2023-11-22 20:12:58 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_brick_slab_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-11-22 20:12:29 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/marrowshale_slab": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_wall_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_from_blasting_biolium_ore": {
+    "criteria": {
+      "has_biolium_ore": "2023-11-22 20:14:32 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/tarshale_brick_stairs_from_tarshale_bricks_stonecutting": {
+    "criteria": {
+      "has_tarshale_bricks": "2023-11-22 20:12:58 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_slab_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_stairs_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_marrowshale_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_brick_wall_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/marrowshale_slab_from_marrowshale_stonecutting": {
+    "criteria": {
+      "has_marrowshale": "2023-11-22 20:13:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-11-22 20:13:32 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_brick_wall": {
+    "criteria": {
+      "has_tarshale_bricks": "2023-11-22 20:12:58 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

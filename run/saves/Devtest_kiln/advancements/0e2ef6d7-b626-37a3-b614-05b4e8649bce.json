@@ -1,0 +1,706 @@
+{
+  "gemperience:gameplay/sculk_chitin_get": {
+    "criteria": {
+      "needs_sculk_chitin": "2023-10-31 00:50:43 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/chitinous_mass": {
+    "criteria": {
+      "has_sculk_chitin": "2023-10-31 00:50:43 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-31 00:50:43 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/shapeless_denitium": {
+    "criteria": {
+      "has_sculk_chitin": "2023-10-31 00:50:43 +0100",
+      "has_denarium": "2023-10-31 00:50:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-31 00:50:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-10-31 00:50:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2023-10-31 00:51:06 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_hammer": {
+    "criteria": {
+      "has_denarium": "2023-10-31 00:51:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denarium_block": {
+    "criteria": {
+      "has_denarium": "2023-10-31 00:51:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/denarium_get": {
+    "criteria": {
+      "needs_denarium": "2023-10-31 00:51:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_leggings": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-31 00:51:20 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_chestplate": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-31 00:51:20 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denitin_block": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-31 00:51:20 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_hoe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-31 00:51:20 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_pickaxe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-31 00:51:20 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_axe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-31 00:51:20 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_shovel": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-31 00:51:20 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_sword": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-31 00:51:20 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_helmet": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-31 00:51:20 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_boots": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-31 00:51:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-10-31 00:51:32 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_block": {
+    "criteria": {
+      "has_runian": "2023-10-31 00:52:54 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/experience_bottle": {
+    "criteria": {
+      "has_runian": "2023-10-31 00:52:54 +0100",
+      "has_echocrine_paste": "2023-10-31 00:52:54 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/runian_get": {
+    "criteria": {
+      "needs_runian": "2023-10-31 00:52:54 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/gem_grinder_tier_2": {
+    "criteria": {
+      "has_gem_grinder_tier_1": "2023-10-31 00:56:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_block": {
+    "criteria": {
+      "has_ruby": "2023-10-31 00:56:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/crush_first_gem": {
+    "criteria": {
+      "gem_crushed": "2023-10-31 00:56:23 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/grind_all_gems": {
+    "criteria": {
+      "ground_amalgamite": "2023-10-31 01:02:38 +0100",
+      "ground_ruby": "2023-10-31 00:56:23 +0100",
+      "ground_runian": "2023-10-31 00:57:24 +0100",
+      "ground_denarium": "2023-10-31 00:57:06 +0100",
+      "ground_glazonium": "2023-10-31 01:00:35 +0100",
+      "ground_biolium": "2023-10-31 00:57:15 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2023-10-31 00:57:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-10-31 00:57:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-10-31 00:57:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-10-31 00:57:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-10-31 00:57:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/jadestone_block": {
+    "criteria": {
+      "has_jadestone": "2023-10-31 00:57:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2023-10-31 00:57:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/jadestone_get": {
+    "criteria": {
+      "needs_jadestone": "2023-10-31 00:57:07 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_block": {
+    "criteria": {
+      "has_biolium": "2023-10-31 00:57:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/biolium_get": {
+    "criteria": {
+      "needs_biolium": "2023-10-31 00:57:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2023-10-31 00:57:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2023-10-31 00:57:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2023-10-31 00:57:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2023-10-31 00:57:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2023-10-31 00:57:29 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/chitin_bomb": {
+    "criteria": {
+      "has_gunpowder": "2023-10-31 00:57:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-10-31 00:57:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-10-31 00:57:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2023-10-31 00:57:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-10-31 00:57:29 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ghast_tear_in_a_bottle": {
+    "criteria": {
+      "has_ghast_tear": "2023-10-31 00:57:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2023-10-31 00:57:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2023-10-31 00:57:29 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cobgalite_from_blasting_deepslate_cobgalite_ore": {
+    "criteria": {
+      "has_deepslate_cobgalite_ore": "2023-10-31 00:58:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cobgalite_from_smelting_deepslate_cobgalite_ore": {
+    "criteria": {
+      "has_deepslate_cobgalite_ore": "2023-10-31 00:58:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_from_blasting_deepslate_ruby_ore": {
+    "criteria": {
+      "has_deepslate_ruby_ore": "2023-10-31 00:58:21 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_from_smelting_deepslate_ruby_ore": {
+    "criteria": {
+      "has_deepslate_ruby_ore": "2023-10-31 00:58:21 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/cobgalite": {
+    "criteria": {
+      "needs_cobgalite": "2023-10-31 00:58:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cobgalite_block": {
+    "criteria": {
+      "has_cobgalite": "2023-10-31 00:58:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_from_smelting_biolium_ore": {
+    "criteria": {
+      "has_biolium_ore": "2023-10-31 00:58:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_from_blasting_biolium_ore": {
+    "criteria": {
+      "has_biolium_ore": "2023-10-31 00:58:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/cobgalite": {
+    "criteria": {
+      "has_cobgalite_block": "2023-10-31 00:58:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/slagodite": {
+    "criteria": {
+      "has_slagodite_block": "2023-10-31 01:00:03 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/slagodite_get": {
+    "criteria": {
+      "needs_slagodite": "2023-10-31 01:00:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_block": {
+    "criteria": {
+      "has_slagodite": "2023-10-31 01:00:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/glazonium_block": {
+    "criteria": {
+      "has_glazonium": "2023-10-31 01:00:30 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/glazonium_get": {
+    "criteria": {
+      "needs_glazonium": "2023-10-31 01:00:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2023-10-31 01:00:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2023-10-31 01:00:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2023-10-31 01:00:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2023-10-31 01:00:38 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/sculk_chitin": {
+    "criteria": {
+      "has_chitinous_mass": "2023-10-31 01:00:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2023-10-31 01:01:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/amalgamite_get": {
+    "criteria": {
+      "needs_amalgamite": "2023-10-31 01:02:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/amalgamite_block": {
+    "criteria": {
+      "has_amalgamite": "2023-10-31 01:02:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2023-10-31 01:02:39 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_nugget": "2023-10-31 01:02:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-10-31 01:02:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-10-31 01:02:40 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

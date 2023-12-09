@@ -1,0 +1,29 @@
+{
+  "parent": "gemperience:gameplay/runian_get",
+  "criteria": {
+    "generated_runian_using_entity": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.spawned_runian.desc"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:runian_ore_soil"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.spawned_runian.title"
+    }
+  },
+  "requirements": [
+    [
+      "generated_runian_using_entity"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 1.5,
+  "group": "echocrine_glob",
+  "ingredient": {
+    "item": "gemperience:echocrine_glob"
+  },
+  "result": "gemperience:echocrine_stone"
+}

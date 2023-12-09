@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "gemperience:tarshale_bricks"
+  },
+  "result": "gemperience:polished_tarshale_slab"
+}

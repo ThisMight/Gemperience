@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "d": {
+      "item": "gemperience:polished_tarshale"
+    }
+  },
+  "pattern": [
+    "d  ",
+    "dd ",
+    "ddd"
+  ],
+  "result": {
+    "count": 4,
+    "item": "gemperience:polished_tarshale_stairs"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,4 @@
+accessWidener v2 named
+
+accessible class net/minecraft/recipe/CookingRecipeSerializer$RecipeFactory
+accessible field net/minecraft/entity/TntEntity causingEntity Lnet/minecraft/entity/LivingEntity;

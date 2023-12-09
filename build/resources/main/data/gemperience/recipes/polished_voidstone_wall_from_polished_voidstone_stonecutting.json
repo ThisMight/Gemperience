@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "gemperience:polished_voidstone"
+  },
+  "result": "gemperience:polished_voidstone_wall"
+}

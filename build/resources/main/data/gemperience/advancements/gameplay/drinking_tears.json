@@ -1,0 +1,29 @@
+{
+  "parent": "gemperience:root",
+  "criteria": {
+    "drank_tears": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.drinking_tears.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:ghast_tear_in_a_bottle"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.drinking_tears.title"
+    }
+  },
+  "requirements": [
+    [
+      "drank_tears"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

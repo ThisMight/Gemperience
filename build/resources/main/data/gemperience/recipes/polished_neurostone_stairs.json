@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "d": {
+      "item": "gemperience:polished_neurostone"
+    }
+  },
+  "pattern": [
+    "d  ",
+    "dd ",
+    "ddd"
+  ],
+  "result": {
+    "count": 4,
+    "item": "gemperience:polished_neurostone_stairs"
+  },
+  "show_notification": true
+}

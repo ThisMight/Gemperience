@@ -1,0 +1,38 @@
+{
+  "parent": "gemperience:gameplay/jadestone_get",
+  "criteria": {
+    "needs_biolium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:biolium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.biolium_get.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:biolium"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.biolium_get.title"
+    }
+  },
+  "requirements": [
+    [
+      "needs_biolium"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

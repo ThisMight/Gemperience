@@ -1,0 +1,227 @@
+{
+  "gemperience:recipes/tools/denarium_shovel": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_block": {
+    "criteria": {
+      "has_ruby": "2023-08-12 23:54:10 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_axe": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_sword": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/petrinite_get": {
+    "criteria": {
+      "needs_petrinite": "2023-08-12 23:54:10 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/slagodite_get": {
+    "criteria": {
+      "needs_slagodite": "2023-08-12 23:54:13 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/spironite_block": {
+    "criteria": {
+      "has_spironite": "2023-08-12 23:54:09 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_boots": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denarium_block": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_block": {
+    "criteria": {
+      "has_slagodite": "2023-08-12 23:54:13 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/amalgamite_get": {
+    "criteria": {
+      "needs_amalgamite": "2023-08-12 23:54:09 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/antholium_block": {
+    "criteria": {
+      "has_antholium": "2023-08-12 23:54:09 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_hoe": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-08-12 23:53:36 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/glazonium_block": {
+    "criteria": {
+      "has_glazonium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/amalgamite_block": {
+    "criteria": {
+      "has_amalgamite": "2023-08-12 23:54:09 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_block": {
+    "criteria": {
+      "has_petrinite": "2023-08-12 23:54:10 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/glazonium_get": {
+    "criteria": {
+      "needs_glazonium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-08-12 23:53:36 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_block": {
+    "criteria": {
+      "has_runian": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/jadestone_block": {
+    "criteria": {
+      "has_jadestone": "2023-08-12 23:54:10 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_pickaxe": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_block": {
+    "criteria": {
+      "has_biolium": "2023-08-12 23:54:01 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/experience_bottle": {
+    "criteria": {
+      "has_runian": "2023-08-12 23:54:11 +0200",
+      "has_echocrine_paste": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/antholium_get": {
+    "criteria": {
+      "needs_antholium": "2023-08-12 23:54:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2023-08-12 23:53:51 +0200",
+      "minecraft:savanna": "2023-08-12 23:53:38 +0200"
+    },
+    "done": false
+  },
+  "gemperience:gameplay/denarium_get": {
+    "criteria": {
+      "needs_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_chestplate": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/biolium_get": {
+    "criteria": {
+      "needs_biolium": "2023-08-12 23:54:01 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/jadestone_get": {
+    "criteria": {
+      "needs_jadestone": "2023-08-12 23:54:10 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/cobgalite": {
+    "criteria": {
+      "needs_cobgalite": "2023-08-12 23:54:13 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/spironite_get": {
+    "criteria": {
+      "needs_spironite": "2023-08-12 23:54:09 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_hammer": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/runian_get": {
+    "criteria": {
+      "needs_runian": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_helmet": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cobgalite_block": {
+    "criteria": {
+      "has_cobgalite": "2023-08-12 23:54:13 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_leggings": {
+    "criteria": {
+      "has_denarium": "2023-08-12 23:54:11 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "gemperience:block/grinder/mineral_grinder_tier0" }
+  }
+}

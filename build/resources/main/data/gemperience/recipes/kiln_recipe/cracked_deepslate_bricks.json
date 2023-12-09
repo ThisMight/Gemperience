@@ -1,0 +1,10 @@
+{
+  "type": "gemperience:kiln_recipe_serializer",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "minecraft:deepslate_bricks"
+  },
+  "result": "minecraft:cracked_deepslate_bricks"
+}

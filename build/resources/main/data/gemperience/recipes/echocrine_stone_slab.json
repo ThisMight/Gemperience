@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "d": {
+      "item": "gemperience:echocrine_stone"
+    }
+  },
+  "pattern": [
+    "ddd"
+  ],
+  "result": {
+    "count": 2,
+    "item": "gemperience:echocrine_stone_slab"
+  },
+  "show_notification": true
+}

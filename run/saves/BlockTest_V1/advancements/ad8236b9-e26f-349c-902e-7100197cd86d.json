@@ -1,0 +1,22 @@
+{
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-07-28 20:35:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-07-28 20:35:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-07-28 20:35:32 +0200",
+      "minecraft:snowy_taiga": "2023-07-28 20:35:52 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3337
+}

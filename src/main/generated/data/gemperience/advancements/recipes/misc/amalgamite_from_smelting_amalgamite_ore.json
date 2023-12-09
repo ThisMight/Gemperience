@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_amalgamite_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:amalgamite_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:amalgamite_from_smelting_amalgamite_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_amalgamite_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:amalgamite_from_smelting_amalgamite_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

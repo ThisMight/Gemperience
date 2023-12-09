@@ -1,0 +1,38 @@
+{
+  "parent": "gemperience:gameplay/raw_dyanite_get",
+  "criteria": {
+    "needs_amalgamite": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:amalgamite"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.amalgamite_get.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:amalgamite"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.amalgamite_get.title"
+    }
+  },
+  "requirements": [
+    [
+      "needs_amalgamite"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "gemperience:block/soulstone_bottom",
+    "side": "gemperience:block/cut_soulstone",
+    "top": "gemperience:block/soulstone_top"
+  }
+}

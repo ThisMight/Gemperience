@@ -1,0 +1,183 @@
+{
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-07-28 14:51:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_block": {
+    "criteria": {
+      "has_dyanite": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2023-07-28 14:52:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-07-28 14:52:01 +0200"
+    },
+    "done": false
+  },
+  "gemperience:recipes/building_blocks/lazutite": {
+    "criteria": {
+      "has_lazutite_block": "2023-07-28 14:54:03 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/aquamarine_ingot": {
+    "criteria": {
+      "has_aquamarine_ingot_block": "2023-07-28 14:54:06 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/anglodite": {
+    "criteria": {
+      "has_anglodite_block": "2023-07-28 14:54:20 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/antholium": {
+    "criteria": {
+      "has_antholium_block": "2023-07-28 14:54:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2023-07-28 15:01:00 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/lazutite_block": {
+    "criteria": {
+      "has_lazutite": "2023-07-28 15:03:02 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/anglodite_block": {
+    "criteria": {
+      "has_anglodite": "2023-07-28 15:03:00 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/antholium_block": {
+    "criteria": {
+      "has_antholium": "2023-07-28 15:02:57 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/dyanite": {
+    "criteria": {
+      "has_dyanite_block": "2023-07-28 15:03:09 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/raw_aquamarine_block": {
+    "criteria": {
+      "has_raw_aquamarine": "2023-07-28 15:03:04 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}

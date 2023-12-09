@@ -1,0 +1,63 @@
+{
+  "gemperience:gameplay/crush_first_gem": {
+    "criteria": {
+      "gem_crushed": "2023-10-19 16:34:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2023-10-19 16:34:09 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/grind_all_gems": {
+    "criteria": {
+      "ground_glazonium": "2023-10-19 16:34:08 +0200"
+    },
+    "done": false
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-19 16:33:42 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/glazonium_block": {
+    "criteria": {
+      "has_glazonium": "2023-10-19 16:34:00 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/glazonium_get": {
+    "criteria": {
+      "needs_glazonium": "2023-10-19 16:34:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-19 16:33:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-10-19 16:34:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2023-10-19 16:34:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2023-10-19 16:34:09 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

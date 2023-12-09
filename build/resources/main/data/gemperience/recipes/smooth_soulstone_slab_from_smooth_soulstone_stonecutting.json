@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "gemperience:smooth_soulstone"
+  },
+  "result": "gemperience:smooth_soulstone_slab"
+}

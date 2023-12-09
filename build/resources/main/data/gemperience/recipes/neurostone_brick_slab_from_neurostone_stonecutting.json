@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "gemperience:neurostone"
+  },
+  "result": "gemperience:neurostone_brick_slab"
+}

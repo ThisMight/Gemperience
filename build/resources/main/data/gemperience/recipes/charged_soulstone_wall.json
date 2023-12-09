@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "gemperience:runian"
+    },
+    {
+      "item": "gemperience:soulstone_wall"
+    }
+  ],
+  "result": {
+    "item": "gemperience:charged_soulstone_wall"
+  }
+}

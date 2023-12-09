@@ -1,0 +1,171 @@
+{
+  "gemperience:recipes/combat/denitin_leggings": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-30 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_chestplate": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-30 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denitin_block": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-30 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_helmet": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_pickaxe": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_leggings": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_sword": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2023-10-30 19:45:43 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_boots": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_block": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_shovel": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-30 19:45:43 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_chestplate": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_hoe": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_hammer": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_hoe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-30 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-30 19:45:43 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_pickaxe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-30 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_axe": {
+    "criteria": {
+      "has_dyanite": "2023-10-30 19:46:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_axe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-30 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_shovel": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-30 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_sword": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-30 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/raw_dyanite": {
+    "criteria": {
+      "has_raw_dyanite_block": "2023-10-30 19:46:12 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_helmet": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-30 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-10-30 19:45:43 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/cobgalite": {
+    "criteria": {
+      "has_cobgalite_block": "2023-10-30 19:50:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_boots": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-30 19:46:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2023-10-30 19:45:43 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

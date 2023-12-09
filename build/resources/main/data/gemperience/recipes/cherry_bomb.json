@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "gemperience:ruby_dust"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "pattern": [
+    "DID",
+    "DTD",
+    "DID"
+  ],
+  "result": {
+    "item": "gemperience:cherry_bomb"
+  },
+  "show_notification": true
+}

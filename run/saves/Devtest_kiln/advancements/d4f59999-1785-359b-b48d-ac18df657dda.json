@@ -1,0 +1,39 @@
+{
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-30 19:51:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-30 19:51:23 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_block": {
+    "criteria": {
+      "has_biolium": "2023-10-30 19:51:36 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/biolium_get": {
+    "criteria": {
+      "needs_biolium": "2023-10-30 19:51:36 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/crush_first_gem": {
+    "criteria": {
+      "gem_crushed": "2023-10-30 19:51:39 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/grind_all_gems": {
+    "criteria": {
+      "ground_biolium": "2023-10-30 19:51:39 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,147 @@
+{
+  "gemperience:recipes/tools/denarium_shovel": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_axe": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_sword": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_boots": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denarium_block": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_3": {
+    "criteria": {
+      "has_crusher_upgrade_tier_2": "2023-08-08 16:26:44 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_1": {
+    "criteria": {
+      "has_gem_grinder_tier_0": "2023-08-08 16:26:26 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_2": {
+    "criteria": {
+      "has_crusher_upgrade_tier_1": "2023-08-08 16:26:42 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_hoe": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-08-08 16:25:54 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/glazonium_block": {
+    "criteria": {
+      "has_glazonium": "2023-08-08 16:26:18 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/glazonium_get": {
+    "criteria": {
+      "needs_glazonium": "2023-08-08 16:26:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-08-08 16:25:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_pickaxe": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_block": {
+    "criteria": {
+      "has_biolium": "2023-08-08 16:26:02 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/upgrade_tier_3": {
+    "criteria": {
+      "upgraded_gem_grinder": "2023-08-08 16:26:47 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/upgrade_tier_2": {
+    "criteria": {
+      "upgraded_gem_grinder": "2023-08-08 16:26:47 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/upgrade_tier_1": {
+    "criteria": {
+      "upgraded_gem_grinder": "2023-08-08 16:26:46 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/denarium_get": {
+    "criteria": {
+      "needs_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_chestplate": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/biolium_get": {
+    "criteria": {
+      "needs_biolium": "2023-08-08 16:26:02 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_hammer": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_helmet": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_leggings": {
+    "criteria": {
+      "has_denarium": "2023-08-08 16:26:17 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "gemperience:illuminium_bricks"
+  },
+  "result": "gemperience:polished_illuminium_slab"
+}

@@ -1,0 +1,21 @@
+{
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-07-28 01:41:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-07-28 01:41:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-07-28 01:41:20 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3337
+}

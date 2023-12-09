@@ -1,0 +1,93 @@
+{
+  "gemperience:recipes/misc/hardened_dyanite_sword_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 23:41:58 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/hardened_dyanite_hammer_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 23:41:58 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/spironite_block": {
+    "criteria": {
+      "has_spironite": "2023-07-28 23:42:20 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/hardened_dyanite_hoe_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 23:41:58 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-07-28 23:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2023-07-28 23:42:44 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/hardened_dyanite_axe_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 23:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-07-28 23:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-07-28 23:42:20 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/hardened_dyanite_pickaxe_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 23:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-07-28 23:41:59 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2023-07-28 23:42:43 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/hardened_dyanite_shovel_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 23:41:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-07-28 23:42:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2023-07-28 23:42:44 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}

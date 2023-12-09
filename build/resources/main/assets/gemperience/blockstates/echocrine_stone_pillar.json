@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "gemperience:block/echocrine_stone_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "gemperience:block/echocrine_stone_pillar"
+    },
+    "axis=z": {
+      "model": "gemperience:block/echocrine_stone_pillar_horizontal",
+      "x": 90
+    }
+  }
+}

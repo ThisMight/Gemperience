@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gemperience:block/jadestone_block"
+    },
+    "facing=east": {
+      "model": "gemperience:block/jadestone_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "gemperience:block/jadestone_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gemperience:block/jadestone_block",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "gemperience:gameplay/antholium_get",
+  "criteria": {
+    "needs_petrinite": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:petrinite_bulb"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.petrinite_get.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:petrinite_bulb"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.petrinite_get.title"
+    }
+  },
+  "requirements": [
+    [
+      "needs_petrinite"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

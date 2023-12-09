@@ -1,0 +1,10 @@
+// 1.20.1	2023-12-07T22:02:47.4990687	Gemperience/Tags for minecraft:item
+a9ef436192ca0606576392770e7b95df6a99d1e0 data\gemperience\tags\items\gems.json
+293d91d1cfd8cfeed67898fde8b380852da963f1 data\fabric\tags\items\swords.json
+22694471c18d6221fbf36c318b37e1d6a4c85500 data\gemperience\tags\items\gem_hammers.json
+c3419be2764a6ada7511c03a297b0d7788adf0d9 data\fabric\tags\items\shovels.json
+3c1eed1f325bdb26479422fbd6aee618cd5150e2 data\gemperience\tags\items\gems_tier_2.json
+a75d4cd39e92d7d04387bb0aac8a6bb2a2df7584 data\fabric\tags\items\axes.json
+516dc1395bdf998c41aa2fc5948d1159748042b9 data\fabric\tags\items\pickaxes.json
+2be7200fe63ceb79e2288b8b7d0cda01ee100e2f data\fabric\tags\items\hoes.json
+d6e6b1c34ff0233ca32c1782795a74a0986c54a4 data\gemperience\tags\items\gems_tier_1.json

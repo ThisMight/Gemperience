@@ -1,0 +1,165 @@
+{
+  "gemperience:recipes/misc/soulstone_stairs_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-21 23:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_chiseled_soulstone_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-21 23:00:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-11-21 23:00:04 +0100"
+    },
+    "done": false
+  },
+  "gemperience:recipes/misc/charged_soulstone_stairs_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-21 23:00:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cut_soulstone_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-21 23:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_soulstone_slab_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-21 23:00:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/soulstone_stairs": {
+    "criteria": {
+      "has_soulstone": "2023-11-21 23:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/soulstone_wall_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-21 23:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/smooth_soulstone_stairs_from_smooth_soulstone_stonecutting": {
+    "criteria": {
+      "has_smooth_soulstone": "2023-11-21 23:00:12 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_soulstone_wall_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-21 23:00:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-21 23:00:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/soulstone_slab": {
+    "criteria": {
+      "has_soulstone": "2023-11-21 23:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/smooth_soulstone_from_smelting_soulstone": {
+    "criteria": {
+      "has_soulstone": "2023-11-21 23:00:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2023-11-21 23:00:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-11-21 23:00:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-11-21 23:00:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/soulstone_slab_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-21 23:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/chiseled_soulstone_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-21 23:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_cut_soulstone_slab_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-21 23:00:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/soulstone_from_smelting_smooth_soulstone": {
+    "criteria": {
+      "has_smooth_soulstone": "2023-11-21 23:00:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-11-21 23:00:02 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/smooth_soulstone_slab_from_smooth_soulstone_stonecutting": {
+    "criteria": {
+      "has_smooth_soulstone": "2023-11-21 23:00:12 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/soulstone_wall": {
+    "criteria": {
+      "has_soulstone": "2023-11-21 23:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/smooth_soulstone_slab": {
+    "criteria": {
+      "has_smooth_soulstone": "2023-11-21 23:00:12 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cut_soulstone_slab_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-21 23:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/smooth_soulstone_stairs": {
+    "criteria": {
+      "has_smooth_soulstone_stairs": "2023-11-21 23:00:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_cut_soulstone_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-21 23:00:11 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,303 @@
+{
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_antholium": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_runian": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_raw_dyanite": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_cobgalite": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/gem_grinder_tier_1": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_petrinite_bulb": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-11-02 14:05:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_petrinite_roots": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_spironite": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_glazonium": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/glazonium_block": {
+    "criteria": {
+      "has_glazonium": "2023-11-02 14:05:51 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cherry_bomb": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/glazonium_get": {
+    "criteria": {
+      "needs_glazonium": "2023-11-02 14:05:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-02 14:05:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_biolium": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_jadestone": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_slagodite": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_ruby": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_chitinous_growth": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_petrinite_rose": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_amalgamite": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_denarium": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-11-02 14:05:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_dust_block": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 14:05:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2023-11-02 14:05:33 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

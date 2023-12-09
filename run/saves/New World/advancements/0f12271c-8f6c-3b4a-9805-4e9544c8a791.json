@@ -1,0 +1,287 @@
+{
+  "gemperience:gameplay/crush_first_gem": {
+    "criteria": {
+      "gem_crushed": "2023-10-20 17:10:52 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/raw_dyanite_get": {
+    "criteria": {
+      "needs_raw_dyanite": "2023-10-20 17:11:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-10-20 17:10:54 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_helmet": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_pickaxe": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-10-20 17:10:54 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_leggings": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2023-10-20 17:11:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_sword": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/grind_all_gems": {
+    "criteria": {
+      "ground_petrinite_roots": "2023-10-20 17:10:52 +0200",
+      "ground_raw_dyanite": "2023-10-20 17:11:16 +0200",
+      "ground_antholium": "2023-10-20 17:11:06 +0200"
+    },
+    "done": false
+  },
+  "gemperience:recipes/combat/dyanite_boots": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/antholium_block": {
+    "criteria": {
+      "has_antholium": "2023-10-20 17:11:06 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_block": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2023-10-20 17:11:16 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_shovel": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2023-10-20 17:10:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2023-10-20 17:11:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-10-20 17:10:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-10-20 17:10:54 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-20 17:10:04 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_chestplate": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_hoe": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2023-10-20 17:11:16 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_hammer": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-10-20 17:10:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-20 17:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-10-20 17:10:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_axe": {
+    "criteria": {
+      "has_dyanite": "2023-10-20 17:11:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2023-10-20 17:11:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/jadestone_block": {
+    "criteria": {
+      "has_jadestone": "2023-10-20 17:11:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2023-10-20 17:11:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2023-10-20 17:11:16 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/antholium_get": {
+    "criteria": {
+      "needs_antholium": "2023-10-20 17:11:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-10-20 17:10:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2023-10-20 17:11:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2023-10-20 17:11:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/raw_dyanite_block": {
+    "criteria": {
+      "has_raw_dyanite": "2023-10-20 17:11:15 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/jadestone_get": {
+    "criteria": {
+      "needs_jadestone": "2023-10-20 17:11:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2023-10-20 17:10:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2023-10-20 17:11:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2023-10-20 17:11:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2023-10-20 17:11:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-10-20 17:10:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2023-10-20 17:11:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2023-10-20 17:11:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2023-10-20 17:11:16 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

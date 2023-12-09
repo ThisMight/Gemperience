@@ -1,0 +1,27 @@
+{
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-30 21:30:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-30 21:30:20 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/denitin_ingot": {
+    "criteria": {
+      "has_denitin_block": "2023-10-30 21:30:32 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/biolium": {
+    "criteria": {
+      "has_biolium_block": "2023-10-30 21:30:25 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

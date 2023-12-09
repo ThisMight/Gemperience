@@ -1,0 +1,303 @@
+{
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/crush_first_gem": {
+    "criteria": {
+      "gem_crushed": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/raw_dyanite_get": {
+    "criteria": {
+      "needs_raw_dyanite": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_helmet": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_pickaxe": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_leggings": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_sword": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/grind_all_gems": {
+    "criteria": {
+      "ground_biolium": "2023-08-08 16:30:33 +0200"
+    },
+    "done": false
+  },
+  "gemperience:recipes/combat/dyanite_boots": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_block": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_3": {
+    "criteria": {
+      "has_crusher_upgrade_tier_2": "2023-08-08 16:30:28 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_1": {
+    "criteria": {
+      "has_gem_grinder_tier_0": "2023-08-08 16:29:57 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_2": {
+    "criteria": {
+      "has_crusher_upgrade_tier_1": "2023-08-08 16:30:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2023-08-08 16:30:35 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_shovel": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2023-08-08 16:30:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-08-08 16:29:57 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_chestplate": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_hoe": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2023-08-08 16:30:35 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_hammer": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-08-08 16:29:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-08-08 16:30:35 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_axe": {
+    "criteria": {
+      "has_dyanite": "2023-08-08 16:30:33 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_block": {
+    "criteria": {
+      "has_runian": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_block": {
+    "criteria": {
+      "has_biolium": "2023-08-08 16:29:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2023-08-08 16:30:35 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/upgrade_tier_3": {
+    "criteria": {
+      "upgraded_gem_grinder": "2023-08-08 16:30:32 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/upgrade_tier_2": {
+    "criteria": {
+      "upgraded_gem_grinder": "2023-08-08 16:30:31 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/upgrade_tier_1": {
+    "criteria": {
+      "upgraded_gem_grinder": "2023-08-08 16:30:31 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/raw_dyanite_block": {
+    "criteria": {
+      "has_raw_dyanite": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/biolium_get": {
+    "criteria": {
+      "needs_biolium": "2023-08-08 16:29:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2023-08-08 16:30:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2023-08-08 16:30:35 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/runian_get": {
+    "criteria": {
+      "needs_runian": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2023-08-08 16:30:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2023-08-08 16:30:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2023-08-08 16:30:34 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}

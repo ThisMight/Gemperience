@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gemperience:block/cerulean_froglight_top",
+    "side": "gemperience:block/cerulean_froglight_side"
+  }
+}

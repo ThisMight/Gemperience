@@ -1,0 +1,316 @@
+{
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-11-02 19:08:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-02 19:08:04 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_antholium": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_runian": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_block": {
+    "criteria": {
+      "has_ruby": "2023-11-02 19:14:21 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/crush_first_gem": {
+    "criteria": {
+      "gem_crushed": "2023-11-02 19:14:14 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/petrinite_get": {
+    "criteria": {
+      "needs_petrinite": "2023-11-02 19:13:39 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/raw_dyanite_get": {
+    "criteria": {
+      "needs_raw_dyanite": "2023-11-02 19:14:12 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_raw_dyanite": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_cobgalite": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_helmet": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_pickaxe": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/gem_grinder_tier_2": {
+    "criteria": {
+      "has_gem_grinder_tier_1": "2023-11-02 19:14:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_leggings": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_sword": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_petrinite_bulb": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/grind_all_gems": {
+    "criteria": {
+      "ground_ruby": "2023-11-02 19:14:24 +0100",
+      "ground_raw_dyanite": "2023-11-02 19:14:14 +0100"
+    },
+    "done": false
+  },
+  "gemperience:recipes/combat/dyanite_boots": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_block": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_shovel": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_petrinite_roots": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_spironite": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_glazonium": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/dyanite_chestplate": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_hoe": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/glazonium_block": {
+    "criteria": {
+      "has_glazonium": "2023-11-02 19:13:23 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cherry_bomb": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_block": {
+    "criteria": {
+      "has_petrinite_bulb": "2023-11-02 19:13:39 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_hammer": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/glazonium_get": {
+    "criteria": {
+      "needs_glazonium": "2023-11-02 19:13:23 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_biolium": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_jadestone": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/dyanite_axe": {
+    "criteria": {
+      "has_dyanite": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/jadestone_block": {
+    "criteria": {
+      "has_jadestone": "2023-11-02 19:13:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/raw_dyanite_block": {
+    "criteria": {
+      "has_raw_dyanite": "2023-11-02 19:14:12 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_slagodite": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_ruby": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_chitinous_growth": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_petrinite_rose": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/jadestone_get": {
+    "criteria": {
+      "needs_jadestone": "2023-11-02 19:13:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_amalgamite": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dusted_denarium": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_dust_block": {
+    "criteria": {
+      "has_ruby_dust": "2023-11-02 19:14:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2023-11-02 19:14:16 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

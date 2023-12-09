@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.5,
+  "group": "runian",
+  "ingredient": {
+    "item": "gemperience:runian_ore_sand"
+  },
+  "result": "gemperience:runian"
+}

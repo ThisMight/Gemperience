@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "gemperience:ruby_dust"
+    },
+    "G": {
+      "item": "gemperience:chitinous_growth"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "DGD",
+    "DDD"
+  ],
+  "result": {
+    "count": 2,
+    "item": "gemperience:chitinous_growth"
+  },
+  "show_notification": true
+}

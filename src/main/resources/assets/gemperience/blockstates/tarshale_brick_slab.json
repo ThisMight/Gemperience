@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "gemperience:block/tarshale_brick_slab"
+    },
+    "type=double": {
+      "model": "gemperience:block/tarshale_bricks"
+    },
+    "type=top": {
+      "model": "gemperience:block/tarshale_brick_slab_top"
+    }
+  }
+}

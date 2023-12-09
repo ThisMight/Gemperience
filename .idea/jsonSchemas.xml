@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="Minecraft Data Pack Loot Table">
+          <value>
+            <SchemaInfo>
+              <option name="name" value="Minecraft Data Pack Loot Table" />
+              <option name="relativePathToSchema" value="https://json.schemastore.org/minecraft-loot-table.json" />
+              <option name="applicationDefined" value="true" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="src/main/generated/data/gemperience/loot_tables/blocks/dyanite_block.json" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="src/main/resources/data/gemperience/loot_tables/blocks/dyanite_block.json" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="src/main/resources/data/gemperience/loot_tables/gameplay/gem/dyanite.json" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="src/main/resources/data/gemperience/loot_tables/gameplay/gem/runian.json" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="src/main/resources/data/gemperience/loot_tables/gameplay/gem/cobgalite.json" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="src/main/resources/data/gemperience/loot_tables/gameplay/gem/chitenous_growth.json" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="src/main/resources/data/gemperience/loot_tables/gameplay/gem/ruby.json" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="src/main/resources/data/gemperience/loot_tables/gameplay/gem/biolium.json" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="src/main/resources/data/gemperience/loot_tables/gameplay/gem/petrinite_bulb.json" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="src/main/resources/data/gemperience/loot_tables/gameplay/gem/petrinite_roots.json" />
+                  </Item>
+                  <Item>
+                    <option name="path" value="src/main/resources/assets/gemperience/models/block/soulstone_wall_inventory.json" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+        <entry key="No JSON schema">
+          <value>
+            <SchemaInfo>
+              <option name="ignoredFile" value="true" />
+              <option name="name" value="No JSON schema" />
+              <option name="relativePathToSchema" value="" />
+              <option name="applicationDefined" value="true" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="file://$PROJECT_DIR$/src/main/resources/assets/gemperience/models/block/gem_grinder.json" />
+                  </Item>
+                </list>
+              </option>
+              <option name="isIgnoredFile" value="true" />
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>

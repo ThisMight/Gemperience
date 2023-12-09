@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "gemperience:marrowshale_bricks"
+  },
+  "result": "gemperience:marrowshale_brick_wall"
+}

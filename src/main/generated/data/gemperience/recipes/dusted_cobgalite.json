@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "gemperience:ruby_dust"
+    },
+    "G": {
+      "item": "gemperience:cobgalite"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "DGD",
+    "DDD"
+  ],
+  "result": {
+    "count": 2,
+    "item": "gemperience:cobgalite"
+  },
+  "show_notification": true
+}

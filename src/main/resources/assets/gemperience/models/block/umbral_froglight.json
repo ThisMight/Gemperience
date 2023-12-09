@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gemperience:block/umbral_froglight_top",
+    "side": "gemperience:block/umbral_froglight_side"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "gemperience:denitin_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "gemperience:denitin_ingot"
+  }
+}

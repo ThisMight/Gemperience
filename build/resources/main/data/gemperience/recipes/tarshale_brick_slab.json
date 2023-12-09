@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "d": {
+      "item": "gemperience:tarshale_bricks"
+    }
+  },
+  "pattern": [
+    "ddd"
+  ],
+  "result": {
+    "count": 2,
+    "item": "gemperience:tarshale_brick_slab"
+  },
+  "show_notification": true
+}

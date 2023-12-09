@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "gemperience:block/marrowshale_bricks",
+    "side": "gemperience:block/marrowshale_bricks",
+    "top": "gemperience:block/marrowshale_bricks"
+  }
+}

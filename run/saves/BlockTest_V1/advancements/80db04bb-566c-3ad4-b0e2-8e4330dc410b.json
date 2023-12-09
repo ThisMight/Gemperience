@@ -1,0 +1,216 @@
+{
+  "gemperience:recipes/misc/lazutite_block": {
+    "criteria": {
+      "has_lazutite": "2023-07-28 01:26:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-07-28 01:34:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2023-07-28 01:07:06 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_from_smelting_petrinite_clay": {
+    "criteria": {
+      "has_petrinite_clay": "2023-07-28 01:09:00 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_from_blasting_petrinite_mud": {
+    "criteria": {
+      "has_petrinite_mud": "2023-07-28 01:09:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-07-28 01:07:06 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_from_blasting_dyanite_ore": {
+    "criteria": {
+      "has_dyanite_ore": "2023-07-28 01:09:33 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/anglodite_block": {
+    "criteria": {
+      "has_anglodite": "2023-07-28 01:26:12 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_from_smelting_deepslate_dyanite_ore": {
+    "criteria": {
+      "has_deepslate_dyanite_ore": "2023-07-28 01:09:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/antholium_block": {
+    "criteria": {
+      "has_antholium": "2023-07-28 01:09:22 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_block": {
+    "criteria": {
+      "has_dyanite": "2023-07-28 01:26:10 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_from_blasting_deepslate_dyanite_ore": {
+    "criteria": {
+      "has_deepslate_dyanite_ore": "2023-07-28 01:09:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_from_blasting_petrinite_clay": {
+    "criteria": {
+      "has_petrinite_clay": "2023-07-28 01:09:00 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/lazutite": {
+    "criteria": {
+      "has_lazutite_block": "2023-07-28 01:29:07 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-07-28 01:06:39 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_from_smelting_dyanite_ore": {
+    "criteria": {
+      "has_dyanite_ore": "2023-07-28 01:09:33 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/dyanite": {
+    "criteria": {
+      "has_dyanite_block": "2023-07-28 01:26:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/aquamarine_from_smelting_aquamarine_ore": {
+    "criteria": {
+      "has_aquamarine_ore": "2023-07-28 01:09:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/aquamarine_from_smelting_deepslate_aquamarine_ore": {
+    "criteria": {
+      "has_deepslate_aquamarine_ore": "2023-07-28 01:09:35 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_from_smelting_petrinite_mud": {
+    "criteria": {
+      "has_petrinite_mud": "2023-07-28 01:09:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-07-28 01:06:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-07-28 01:26:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-07-28 01:34:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2023-07-28 01:07:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-07-28 01:07:58 +0200",
+      "minecraft:snowy_plains": "2023-07-28 01:06:40 +0200",
+      "minecraft:stony_shore": "2023-07-28 01:06:45 +0200",
+      "minecraft:snowy_taiga": "2023-07-28 01:08:04 +0200"
+    },
+    "done": false
+  },
+  "gemperience:recipes/misc/aquamarine_from_blasting_deepslate_aquamarine_ore": {
+    "criteria": {
+      "has_deepslate_aquamarine_ore": "2023-07-28 01:09:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2023-07-28 01:26:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-07-28 01:34:57 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/anglodite": {
+    "criteria": {
+      "has_anglodite_block": "2023-07-28 01:34:45 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/aquamarine_from_blasting_aquamarine_ore": {
+    "criteria": {
+      "has_aquamarine_ore": "2023-07-28 01:09:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-07-28 01:34:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-07-28 01:34:57 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/raw_aquamarine_block": {
+    "criteria": {
+      "has_raw_aquamarine": "2023-07-28 01:25:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-07-28 01:34:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-07-28 01:34:57 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}

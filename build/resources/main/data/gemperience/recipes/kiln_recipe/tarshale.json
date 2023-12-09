@@ -1,0 +1,10 @@
+{
+  "type": "gemperience:kiln_recipe_serializer",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "gemperience:tar"
+  },
+  "result": "gemperience:tarshale"
+}

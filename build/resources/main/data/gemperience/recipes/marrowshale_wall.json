@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "d": {
+      "item": "gemperience:marrowshale"
+    }
+  },
+  "pattern": [
+    "ddd",
+    "ddd"
+  ],
+  "result": {
+    "count": 6,
+    "item": "gemperience:marrowshale_wall"
+  },
+  "show_notification": true
+}

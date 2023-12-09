@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "d": {
+      "item": "gemperience:illuminium_bricks"
+    }
+  },
+  "pattern": [
+    "ddd"
+  ],
+  "result": {
+    "count": 2,
+    "item": "gemperience:illuminium_brick_slab"
+  },
+  "show_notification": true
+}

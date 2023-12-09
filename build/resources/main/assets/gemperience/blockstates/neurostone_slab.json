@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "gemperience:block/neurostone_slab"
+    },
+    "type=double": {
+      "model": "gemperience:block/neurostone"
+    },
+    "type=top": {
+      "model": "gemperience:block/neurostone_slab_top"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gemperience:block/echocrine_stone_pillar_top",
+    "side": "gemperience:block/echocrine_stone_pillar"
+  }
+}

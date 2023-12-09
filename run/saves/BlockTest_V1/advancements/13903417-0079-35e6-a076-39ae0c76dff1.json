@@ -1,0 +1,51 @@
+{
+  "gemperience:recipes/misc/hardened_dyanite_sword_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 22:06:52 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/hardened_dyanite_hoe_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 22:06:52 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-07-28 22:06:45 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/hardened_dyanite_axe_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 22:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-07-28 22:06:45 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/hardened_dyanite_pickaxe_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 22:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-07-28 22:06:46 +0200"
+    },
+    "done": false
+  },
+  "gemperience:recipes/misc/hardened_dyanite_shovel_smithing_recipe": {
+    "criteria": {
+      "has_hardened_dyanite": "2023-07-28 22:06:52 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}

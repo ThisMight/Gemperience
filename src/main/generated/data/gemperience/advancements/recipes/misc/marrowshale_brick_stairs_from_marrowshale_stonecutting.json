@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_marrowshale": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:marrowshale"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:marrowshale_brick_stairs_from_marrowshale_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_marrowshale",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:marrowshale_brick_stairs_from_marrowshale_stonecutting"
+    ]
+  },
+  "sends_telemetry_event": false
+}

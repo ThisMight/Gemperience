@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.5,
+  "group": "sculk_chiten",
+  "ingredient": {
+    "item": "gemperience:deepslate_sculk_chitin_ore"
+  },
+  "result": "gemperience:chitinous_growth"
+}

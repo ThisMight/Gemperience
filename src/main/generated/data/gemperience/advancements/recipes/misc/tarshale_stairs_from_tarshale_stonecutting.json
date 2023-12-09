@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_tarshale": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:tarshale"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:tarshale_stairs_from_tarshale_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_tarshale",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:tarshale_stairs_from_tarshale_stonecutting"
+    ]
+  },
+  "sends_telemetry_event": false
+}

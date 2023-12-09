@@ -1,0 +1,180 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-23 16:18:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-11-23 16:18:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/soulstone_stairs_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_chiseled_soulstone_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-24 18:38:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-11-24 18:36:46 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/collectors_item": {
+    "criteria": {
+      "gotten_soulstone": "2023-11-24 18:38:30 +0100",
+      "gotten_charged_soulstone": "2023-11-24 18:38:33 +0100"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-11-24 18:36:01 +0100",
+      "minecraft:soul_sand_valley": "2023-11-24 18:35:59 +0100",
+      "minecraft:basalt_deltas": "2023-11-24 18:36:51 +0100"
+    },
+    "done": false
+  },
+  "gemperience:recipes/misc/charged_soulstone_stairs_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-24 18:38:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cut_soulstone_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_soulstone_slab_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-24 18:38:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/soulstone_stairs": {
+    "criteria": {
+      "has_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/soulstone_wall_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_soulstone_wall_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-24 18:38:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/soulstone_slab": {
+    "criteria": {
+      "has_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-11-24 18:37:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_from_smelting_slagodite_ore_basalt": {
+    "criteria": {
+      "has_slagodite_ore_basalt": "2023-11-24 18:37:46 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/smooth_soulstone_from_smelting_soulstone": {
+    "criteria": {
+      "has_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2023-11-24 18:37:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/soulstone_get": {
+    "criteria": {
+      "gotten_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-11-24 18:37:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/soulstone_slab_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/chiseled_soulstone_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_cut_soulstone_slab_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-24 18:38:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-11-24 18:36:48 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/soulstone_wall": {
+    "criteria": {
+      "has_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_from_blasting_slagodite_ore_basalt": {
+    "criteria": {
+      "has_slagodite_ore_basalt": "2023-11-24 18:37:46 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cut_soulstone_slab_from_soulstone_stonecutting": {
+    "criteria": {
+      "has_soulstone": "2023-11-24 18:38:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2023-11-24 18:37:55 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/charged_cut_soulstone_from_charged_soulstone_stonecutting": {
+    "criteria": {
+      "has_charged_soulstone": "2023-11-24 18:38:33 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

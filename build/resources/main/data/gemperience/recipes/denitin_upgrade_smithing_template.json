@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "gemperience:denarium"
+    },
+    "E": {
+      "item": "minecraft:end_stone"
+    },
+    "T": {
+      "item": "gemperience:denitin_upgrade_smithing_template"
+    }
+  },
+  "pattern": [
+    "DTD",
+    "DED",
+    "DDD"
+  ],
+  "result": {
+    "item": "gemperience:denitin_upgrade_smithing_template"
+  },
+  "show_notification": true
+}

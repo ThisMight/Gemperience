@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "gemperience:denitin_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_helmet"
+  },
+  "result": {
+    "item": "gemperience:denitin_helmet"
+  },
+  "template": {
+    "item": "gemperience:denitin_upgrade_smithing_template"
+  }
+}

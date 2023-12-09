@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "gemperience:raw_dyanite",
+    "gemperience:amalgamite",
+    "gemperience:antholium",
+    "gemperience:petrinite_bulb",
+    "gemperience:petrinite_rose",
+    "gemperience:petrinite_roots",
+    "gemperience:runian",
+    "gemperience:cobgalite",
+    "gemperience:jadestone",
+    "gemperience:denarium",
+    "gemperience:slagodite",
+    "gemperience:biolium",
+    "gemperience:spironite",
+    "gemperience:ruby",
+    "gemperience:chitinous_growth",
+    "gemperience:glazonium"
+  ]
+}

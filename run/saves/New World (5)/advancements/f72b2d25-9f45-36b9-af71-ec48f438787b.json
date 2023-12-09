@@ -1,0 +1,22 @@
+{
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-12-04 18:12:06 +0100",
+      "minecraft:soul_sand_valley": "2023-12-04 18:12:21 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-12-04 18:12:04 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-12-04 18:12:04 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

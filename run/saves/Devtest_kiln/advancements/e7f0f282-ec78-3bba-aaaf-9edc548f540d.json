@@ -1,0 +1,69 @@
+{
+  "gemperience:recipes/misc/petrinite_bulb_from_smelting_petrinite_mud": {
+    "criteria": {
+      "has_petrinite_mud": "2023-10-29 20:05:39 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_bulb_from_blasting_petrinite_clay": {
+    "criteria": {
+      "has_petrinite_clay": "2023-10-29 20:05:37 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_2": {
+    "criteria": {
+      "has_gem_grinder_tier_1": "2023-10-29 20:07:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-29 20:05:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-29 20:05:01 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/drinking_tears": {
+    "criteria": {
+      "drank_tears": "2023-10-29 20:05:09 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_bulb_from_blasting_petrinite_mud": {
+    "criteria": {
+      "has_petrinite_mud": "2023-10-29 20:05:39 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_bulb_from_smelting_petrinite_clay": {
+    "criteria": {
+      "has_petrinite_clay": "2023-10-29 20:05:37 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/petrinite_bulb": {
+    "criteria": {
+      "has_petrinite_block": "2023-10-29 20:05:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-10-29 20:05:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-10-29 20:05:45 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

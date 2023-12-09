@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_antholium_ore_sand": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:antholium_ore_sand"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:antholium_from_smelting_antholium_ore_sand"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_antholium_ore_sand",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:antholium_from_smelting_antholium_ore_sand"
+    ]
+  },
+  "sends_telemetry_event": false
+}

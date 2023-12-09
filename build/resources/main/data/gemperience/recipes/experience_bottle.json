@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "gemperience:runian"
+    },
+    {
+      "item": "gemperience:runian"
+    },
+    {
+      "item": "gemperience:runian"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "minecraft:experience_bottle"
+  }
+}

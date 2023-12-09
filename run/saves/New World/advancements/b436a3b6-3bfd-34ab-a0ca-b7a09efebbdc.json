@@ -1,0 +1,51 @@
+{
+  "gemperience:recipes/tools/crusher_upgrade_tier_3": {
+    "criteria": {
+      "has_crusher_upgrade_tier_2": "2023-08-12 12:26:53 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_1": {
+    "criteria": {
+      "has_gem_grinder_tier_0": "2023-08-12 12:26:45 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_2": {
+    "criteria": {
+      "has_crusher_upgrade_tier_1": "2023-08-12 12:26:52 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-08-12 12:25:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-08-12 12:25:45 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/upgrade_tier_3": {
+    "criteria": {
+      "upgraded_gem_grinder": "2023-08-12 12:26:57 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/upgrade_tier_2": {
+    "criteria": {
+      "upgraded_gem_grinder": "2023-08-12 12:26:56 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/upgrade_tier_1": {
+    "criteria": {
+      "upgraded_gem_grinder": "2023-08-12 12:26:56 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}

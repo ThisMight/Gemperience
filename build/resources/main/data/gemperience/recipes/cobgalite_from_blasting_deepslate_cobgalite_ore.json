@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.5,
+  "group": "cobgalite",
+  "ingredient": {
+    "item": "gemperience:deepslate_cobgalite_ore"
+  },
+  "result": "gemperience:cobgalite"
+}

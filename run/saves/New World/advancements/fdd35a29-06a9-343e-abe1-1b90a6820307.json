@@ -1,0 +1,45 @@
+{
+  "gemperience:recipes/misc/cobgalite_from_blasting_deepslate_cobgalite_ore": {
+    "criteria": {
+      "has_deepslate_cobgalite_ore": "2023-10-20 18:00:07 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-20 17:59:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-20 17:59:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cobgalite_from_smelting_deepslate_cobgalite_ore": {
+    "criteria": {
+      "has_deepslate_cobgalite_ore": "2023-10-20 18:00:07 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/jadestone_from_blasting_jadestone_ore": {
+    "criteria": {
+      "has_jadestone_ore": "2023-10-20 18:00:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/cobgalite": {
+    "criteria": {
+      "has_cobgalite_block": "2023-10-20 18:00:23 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/jadestone_from_smelting_jadestone_ore": {
+    "criteria": {
+      "has_jadestone_ore": "2023-10-20 18:00:34 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

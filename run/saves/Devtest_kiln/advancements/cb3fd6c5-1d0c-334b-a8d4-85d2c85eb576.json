@@ -1,0 +1,87 @@
+{
+  "gemperience:recipes/combat/denitin_leggings": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_chestplate": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denitin_block": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-11-02 01:23:53 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_hoe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-02 01:23:53 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_pickaxe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/drinking_tears": {
+    "criteria": {
+      "drank_tears": "2023-11-02 01:24:14 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_axe": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_shovel": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denitin_sword": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_helmet": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-11-02 01:24:14 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denitin_boots": {
+    "criteria": {
+      "has_denitin_ingot": "2023-11-02 01:25:27 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

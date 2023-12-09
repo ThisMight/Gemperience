@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "gemperience:ruby_dust"
+    },
+    "G": {
+      "item": "gemperience:antholium"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "DGD",
+    "DDD"
+  ],
+  "result": {
+    "count": 2,
+    "item": "gemperience:antholium"
+  },
+  "show_notification": true
+}

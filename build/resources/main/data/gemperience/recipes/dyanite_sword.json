@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "d": {
+      "item": "gemperience:dyanite"
+    },
+    "i": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " d ",
+    " d ",
+    " i "
+  ],
+  "result": {
+    "item": "gemperience:dyanite_sword"
+  },
+  "show_notification": true
+}

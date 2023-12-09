@@ -1,0 +1,40 @@
+{
+  "mixins": [
+    "gemperience.mixins.json"
+  ],
+  "schemaVersion": 1,
+  "id": "gemperience",
+  "version": "1.20.1-1.2.0",
+  "name": "Gemperience",
+  "description": "A Minecraft mod that adds gems, ores decorative blocks, grinding and so much more!",
+  "authors": [
+    "ThisMight",
+    "UnitV952"
+  ],
+  "contact": {
+    "repo": "https://github.com/ThisMight/Gemperience"
+  },
+  "license": "MIT",
+  "icon": "assets/gemperience/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "server": [
+      "com.gemperience.server.GemperienceServer"
+    ],
+    "client": [
+      "com.gemperience.client.GemperienceClient"
+    ],
+    "main": [
+      "com.gemperience.Gemperience"
+    ],
+    "fabric-datagen": [
+      "com.gemperience.datagen.GemperienceDataGenerator"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  },
+  "accessWidener": "gemperience.accesswidener"
+}

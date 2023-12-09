@@ -1,0 +1,38 @@
+{
+  "parent": "gemperience:gameplay/spironite_get",
+  "criteria": {
+    "needs_antholium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:antholium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.antholium_get.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:antholium"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.antholium_get.title"
+    }
+  },
+  "requirements": [
+    [
+      "needs_antholium"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

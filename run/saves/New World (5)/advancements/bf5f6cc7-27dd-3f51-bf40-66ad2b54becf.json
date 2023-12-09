@@ -1,0 +1,162 @@
+{
+  "gemperience:recipes/building_blocks/polished_voidstone_slab": {
+    "criteria": {
+      "has_polished_voidstone": "2023-11-24 15:07:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-11-24 15:10:08 +0100",
+      "minecraft:nether_wastes": "2023-11-24 15:09:49 +0100",
+      "minecraft:soul_sand_valley": "2023-11-24 15:10:00 +0100",
+      "minecraft:basalt_deltas": "2023-11-24 15:09:39 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-11-24 15:08:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-11-24 15:09:38 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/voidstone_bricks": {
+    "criteria": {
+      "has_polished_voidstone": "2023-11-24 15:07:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2023-11-24 15:08:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-24 15:06:12 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/purpur_block": {
+    "criteria": {
+      "has_endbrine": "2023-11-24 15:06:31 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_voidstone_wall_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2023-11-24 15:07:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-11-24 15:07:35 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_voidstone_wall": {
+    "criteria": {
+      "has_polished_voidstone": "2023-11-24 15:07:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_voidstone_stairs": {
+    "criteria": {
+      "has_polished_voidstone": "2023-11-24 15:07:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2023-11-24 15:07:31 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_voidstone_stairs_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2023-11-24 15:07:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-11-24 15:09:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2023-11-24 15:09:24 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_voidstone_slab_from_polished_voidstone_stonecutting": {
+    "criteria": {
+      "has_polished_voidstone": "2023-11-24 15:07:41 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-11-24 15:06:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-11-24 15:09:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-11-24 15:08:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2023-11-24 15:09:21 +0100"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-11-24 15:11:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "chorus_fruit": "2023-11-24 15:07:35 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-11-24 15:09:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-11-24 15:08:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-11-24 15:08:13 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "gemperience:gameplay/amalgamite_get",
+  "criteria": {
+    "needs_sculk_chitin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:chitinous_growth"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.sculk_chitin_get.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:chitinous_growth"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.sculk_chitin_get.title"
+    }
+  },
+  "requirements": [
+    [
+      "needs_sculk_chitin"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

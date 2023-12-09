@@ -1,0 +1,1068 @@
+{
+  "gemperience:recipes/building_blocks/jadestone": {
+    "criteria": {
+      "has_jadestone_block": "2023-08-13 13:14:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_shovel": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-08-13 12:32:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_block": {
+    "criteria": {
+      "has_ruby": "2023-08-13 12:37:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_axe": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_sword": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/chitinous_growth_from_blasting_deepslate_sculk_chitin_ore": {
+    "criteria": {
+      "has_deepslate_sculk_chitin_ore": "2023-08-13 12:33:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cobgalite_from_blasting_deepslate_cobgalite_ore": {
+    "criteria": {
+      "has_deepslate_cobgalite_ore": "2023-08-13 12:33:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_from_smelting_runian_ore_sand": {
+    "criteria": {
+      "has_runian_ore_sand": "2023-08-13 12:32:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2023-08-13 12:36:35 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/sculk_chitin_get": {
+    "criteria": {
+      "needs_sculk_chitin": "2023-08-13 12:37:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/petrinite_get": {
+    "criteria": {
+      "needs_petrinite": "2023-08-13 12:37:06 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_from_smelting_biolium_ore": {
+    "criteria": {
+      "has_biolium_ore": "2023-08-13 12:32:18 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_from_smelting_petrinite_clay": {
+    "criteria": {
+      "has_petrinite_clay": "2023-08-13 12:31:54 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/slagodite_get": {
+    "criteria": {
+      "needs_slagodite": "2023-08-13 12:38:43 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_from_blasting_ruby_ore": {
+    "criteria": {
+      "has_ruby_ore": "2023-08-13 12:31:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/glazonium": {
+    "criteria": {
+      "has_glazonium_block": "2023-08-13 13:14:22 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/raw_dyanite_get": {
+    "criteria": {
+      "needs_raw_dyanite": "2023-08-13 12:37:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_from_blasting_petrinite_mud": {
+    "criteria": {
+      "has_petrinite_mud": "2023-08-13 12:31:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/spironite_block": {
+    "criteria": {
+      "has_spironite": "2023-08-13 12:31:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_boots": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/netherite_hammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/runian": {
+    "criteria": {
+      "has_runian_block": "2023-08-13 13:13:36 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denarium_block": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_block": {
+    "criteria": {
+      "has_slagodite": "2023-08-13 12:38:43 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_from_blasting_dyanite_ore": {
+    "criteria": {
+      "has_dyanite_ore": "2023-08-13 12:31:48 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/spironite": {
+    "criteria": {
+      "has_spironite_block": "2023-08-13 13:13:35 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/chitinous_growth_from_smelting_deepslate_sculk_chitin_ore": {
+    "criteria": {
+      "has_deepslate_sculk_chitin_ore": "2023-08-13 12:33:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/amalgamite_get": {
+    "criteria": {
+      "needs_amalgamite": "2023-08-13 12:31:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2023-08-13 12:33:29 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_from_smelting_deepslate_dyanite_ore": {
+    "criteria": {
+      "has_deepslate_dyanite_ore": "2023-08-13 12:31:50 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/denarium": {
+    "criteria": {
+      "has_denarium_block": "2023-08-13 13:14:18 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/glazonium_from_blasting_glazonium_ore": {
+    "criteria": {
+      "has_glazonium_ore": "2023-08-13 12:32:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2023-08-13 13:07:50 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denarium_from_blasting_denarium_ore": {
+    "criteria": {
+      "has_denarium_ore": "2023-08-13 12:32:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-08-13 12:35:32 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/antholium_block": {
+    "criteria": {
+      "has_antholium": "2023-08-13 12:37:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2023-08-13 12:35:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2023-08-13 12:33:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_3": {
+    "criteria": {
+      "has_crusher_upgrade_tier_2": "2023-08-13 12:34:29 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_1": {
+    "criteria": {
+      "has_gem_grinder_tier_0": "2023-08-13 12:33:39 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/crusher_upgrade_tier_2": {
+    "criteria": {
+      "has_crusher_upgrade_tier_1": "2023-08-13 12:34:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/antholium_from_smelting_antholium_ore_sand": {
+    "criteria": {
+      "has_antholium_ore_sand": "2023-08-13 12:31:56 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_hoe": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_from_blasting_runian_ore_soil": {
+    "criteria": {
+      "has_runian_ore_soil": "2023-08-13 12:32:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_from_blasting_deepslate_dyanite_ore": {
+    "criteria": {
+      "has_deepslate_dyanite_ore": "2023-08-13 12:31:50 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_from_blasting_petrinite_clay": {
+    "criteria": {
+      "has_petrinite_clay": "2023-08-13 12:31:54 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_from_blasting_deepslate_ruby_ore": {
+    "criteria": {
+      "has_deepslate_ruby_ore": "2023-08-13 12:31:52 +0200"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-08-13 12:31:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_from_blasting_biolium_ore": {
+    "criteria": {
+      "has_biolium_ore": "2023-08-13 12:32:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/dyanite_from_smelting_dyanite_ore": {
+    "criteria": {
+      "has_dyanite_ore": "2023-08-13 12:31:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/dyanite": {
+    "criteria": {
+      "has_dyanite_block": "2023-08-13 13:13:20 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_from_smelting_ruby_ore": {
+    "criteria": {
+      "has_ruby_ore": "2023-08-13 12:31:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/glazonium_block": {
+    "criteria": {
+      "has_glazonium": "2023-08-13 12:38:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/antholium_from_blasting_antholium_ore_sand": {
+    "criteria": {
+      "has_antholium_ore_sand": "2023-08-13 12:31:56 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/amalgamite_block": {
+    "criteria": {
+      "has_amalgamite": "2023-08-13 12:31:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_block": {
+    "criteria": {
+      "has_petrinite": "2023-08-13 12:37:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2023-08-13 12:35:32 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/glazonium_get": {
+    "criteria": {
+      "needs_glazonium": "2023-08-13 12:38:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2023-08-13 12:34:18 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_from_smelting_deepslate_ruby_ore": {
+    "criteria": {
+      "has_deepslate_ruby_ore": "2023-08-13 12:31:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-08-13 12:35:32 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/slagodite": {
+    "criteria": {
+      "has_slagodite_block": "2023-08-13 13:14:19 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/amalgamite_from_blasting_amalgamite_ore": {
+    "criteria": {
+      "has_amalgamite_ore": "2023-08-13 12:31:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-08-13 12:36:26 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/petrinite": {
+    "criteria": {
+      "has_petrinite_block": "2023-08-13 13:13:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/petrinite_from_smelting_petrinite_mud": {
+    "criteria": {
+      "has_petrinite_mud": "2023-08-13 12:31:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-08-13 12:31:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_block": {
+    "criteria": {
+      "has_runian": "2023-08-13 12:37:39 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/jadestone_block": {
+    "criteria": {
+      "has_jadestone": "2023-08-13 12:37:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_from_smelting_runian_ore_soil": {
+    "criteria": {
+      "has_runian_ore_soil": "2023-08-13 12:32:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_pickaxe": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/drinking_tears": {
+    "criteria": {
+      "drank_tears": "2023-08-13 13:20:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-08-13 12:32:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-08-13 12:32:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-08-13 12:36:35 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/biolium_block": {
+    "criteria": {
+      "has_biolium": "2023-08-13 12:37:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cobgalite_from_smelting_deepslate_cobgalite_ore": {
+    "criteria": {
+      "has_deepslate_cobgalite_ore": "2023-08-13 12:33:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/sculk_chitin": {
+    "criteria": {
+      "has_chitinous_mass": "2023-08-13 13:14:19 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/antholium": {
+    "criteria": {
+      "has_antholium_block": "2023-08-13 13:13:34 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/experience_bottle": {
+    "criteria": {
+      "has_runian": "2023-08-13 12:37:39 +0200",
+      "has_echocrine_paste": "2023-08-13 12:37:39 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/antholium_get": {
+    "criteria": {
+      "needs_antholium": "2023-08-13 12:37:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_from_smelting_slagodite_ore": {
+    "criteria": {
+      "has_slagodite_ore": "2023-08-13 12:32:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2023-08-13 12:35:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/raw_dyanite_block": {
+    "criteria": {
+      "has_raw_dyanite": "2023-08-13 12:37:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2023-08-13 13:19:41 +0200",
+      "minecraft:stony_shore": "2023-08-13 12:31:42 +0200",
+      "minecraft:savanna": "2023-08-13 13:06:40 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-08-13 12:32:25 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/denarium_get": {
+    "criteria": {
+      "needs_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_chestplate": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/biolium_get": {
+    "criteria": {
+      "needs_biolium": "2023-08-13 12:37:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2023-08-13 12:36:01 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/raw_dyanite": {
+    "criteria": {
+      "has_raw_dyanite_block": "2023-08-13 13:13:22 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/amalgamite_from_smelting_amalgamite_ore": {
+    "criteria": {
+      "has_amalgamite_ore": "2023-08-13 12:31:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-08-13 12:36:26 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/amalgamite": {
+    "criteria": {
+      "has_amalgamite_block": "2023-08-13 13:14:47 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/jadestone_from_blasting_jadestone_ore": {
+    "criteria": {
+      "has_jadestone_ore": "2023-08-13 12:32:17 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/jadestone_get": {
+    "criteria": {
+      "needs_jadestone": "2023-08-13 12:37:40 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/cobgalite": {
+    "criteria": {
+      "needs_cobgalite": "2023-08-13 12:37:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-08-13 12:32:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denarium_from_smelting_denarium_ore": {
+    "criteria": {
+      "has_denarium_ore": "2023-08-13 12:32:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/spironite_get": {
+    "criteria": {
+      "needs_spironite": "2023-08-13 12:31:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-08-13 13:20:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-08-13 12:32:25 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/denarium_hammer": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_from_blasting_runian_ore_sand": {
+    "criteria": {
+      "has_runian_ore_sand": "2023-08-13 12:32:14 +0200"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/runian_get": {
+    "criteria": {
+      "needs_runian": "2023-08-13 12:37:39 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_from_smelting_slagodite_ore_basalt": {
+    "criteria": {
+      "has_slagodite_ore_basalt": "2023-08-13 12:32:22 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/ruby": {
+    "criteria": {
+      "has_ruby_block": "2023-08-13 13:13:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-08-13 12:32:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-08-13 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_helmet": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/cobgalite_block": {
+    "criteria": {
+      "has_cobgalite": "2023-08-13 12:37:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-08-13 12:35:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-08-13 12:35:32 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/cobgalite": {
+    "criteria": {
+      "has_cobgalite_block": "2023-08-13 13:14:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-08-13 12:35:42 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_from_blasting_slagodite_ore_basalt": {
+    "criteria": {
+      "has_slagodite_ore_basalt": "2023-08-13 12:32:22 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/combat/denarium_leggings": {
+    "criteria": {
+      "has_denarium": "2023-08-13 12:37:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2023-08-13 12:36:35 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/jadestone_from_smelting_jadestone_ore": {
+    "criteria": {
+      "has_jadestone_ore": "2023-08-13 12:32:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/glazonium_from_smelting_glazonium_ore": {
+    "criteria": {
+      "has_glazonium_ore": "2023-08-13 12:32:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-08-13 12:32:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-08-13 12:32:25 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_from_blasting_slagodite_ore": {
+    "criteria": {
+      "has_slagodite_ore": "2023-08-13 12:32:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-08-13 13:07:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2023-08-13 12:32:24 +0200"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/biolium": {
+    "criteria": {
+      "has_biolium_block": "2023-08-13 13:13:37 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

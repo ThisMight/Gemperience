@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "gemperience:block/voidstone",
+    "side": "gemperience:block/voidstone",
+    "top": "gemperience:block/voidstone"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "gemperience:block/kiln_front_on",
+    "side": "gemperience:block/kiln_side",
+    "top": "gemperience:block/kiln_top",
+    "bottom": "gemperience:block/kiln_bottom"
+  }
+}

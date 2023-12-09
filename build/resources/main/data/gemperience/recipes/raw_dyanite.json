@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "gemperience:raw_dyanite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "gemperience:raw_dyanite"
+  }
+}

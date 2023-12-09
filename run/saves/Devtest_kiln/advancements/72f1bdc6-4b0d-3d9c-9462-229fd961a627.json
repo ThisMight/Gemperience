@@ -1,0 +1,581 @@
+{
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-10-29 18:55:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-29 18:55:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-10-29 18:55:37 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/jadestone_block": {
+    "criteria": {
+      "has_jadestone": "2023-10-29 18:55:44 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/jadestone_get": {
+    "criteria": {
+      "needs_jadestone": "2023-10-29 18:55:44 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/antholium_block": {
+    "criteria": {
+      "has_antholium": "2023-10-29 18:56:21 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/antholium_get": {
+    "criteria": {
+      "needs_antholium": "2023-10-29 18:56:21 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_block": {
+    "criteria": {
+      "has_runian": "2023-10-29 18:56:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/experience_bottle": {
+    "criteria": {
+      "has_runian": "2023-10-29 18:56:33 +0100",
+      "has_echocrine_paste": "2023-10-29 18:56:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/runian_get": {
+    "criteria": {
+      "needs_runian": "2023-10-29 18:56:33 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/glazonium": {
+    "criteria": {
+      "has_glazonium_block": "2023-10-29 18:57:09 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/dyanite": {
+    "criteria": {
+      "has_dyanite_block": "2023-10-29 18:57:09 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/raw_dyanite": {
+    "criteria": {
+      "has_raw_dyanite_block": "2023-10-29 18:57:18 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/antholium": {
+    "criteria": {
+      "has_antholium_block": "2023-10-29 18:57:23 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/slagodite": {
+    "criteria": {
+      "has_slagodite_block": "2023-10-29 18:57:28 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/denitin_block": {
+    "criteria": {
+      "has_denitin_ingot": "2023-10-29 18:58:05 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/amalgamite": {
+    "criteria": {
+      "has_amalgamite_block": "2023-10-29 18:58:17 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_from_smelting_runian_ore_sand": {
+    "criteria": {
+      "has_runian_ore_sand": "2023-10-29 18:59:14 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_from_blasting_runian_ore_sand": {
+    "criteria": {
+      "has_runian_ore_sand": "2023-10-29 18:59:14 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_from_blasting_runian_ore_soil": {
+    "criteria": {
+      "has_runian_ore_soil": "2023-10-29 18:59:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/runian_from_smelting_runian_ore_soil": {
+    "criteria": {
+      "has_runian_ore_soil": "2023-10-29 18:59:15 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_stairs_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_brick_stairs_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_brick_wall_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_echocrine_stone_stairs_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_brick_slab_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/echocrine_stone_pillar": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/chiseled_echocrine_stone_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/echocrine_stone_stairs": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_echocrine_stone_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/echocrine_stone_wall": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_bricks_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_echocrine_stone_slab_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_slab_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/echocrine_stone_slab": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_wall_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/echocrine_stone_pillar_from_echocrine_stone_stonecutting": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_echocrine_stone": {
+    "criteria": {
+      "has_echocrine_stone": "2023-10-29 18:59:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2023-10-29 18:59:35 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_from_smelting_slagodite_ore_basalt": {
+    "criteria": {
+      "has_slagodite_ore_basalt": "2023-10-29 18:59:57 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/slagodite_from_blasting_slagodite_ore_basalt": {
+    "criteria": {
+      "has_slagodite_ore_basalt": "2023-10-29 18:59:57 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_from_blasting_ruby_ore": {
+    "criteria": {
+      "has_ruby_ore": "2023-10-29 19:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_from_smelting_ruby_ore": {
+    "criteria": {
+      "has_ruby_ore": "2023-10-29 19:00:10 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_from_blasting_deepslate_ruby_ore": {
+    "criteria": {
+      "has_deepslate_ruby_ore": "2023-10-29 19:00:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_from_smelting_deepslate_ruby_ore": {
+    "criteria": {
+      "has_deepslate_ruby_ore": "2023-10-29 19:00:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/denitin_ingot": {
+    "criteria": {
+      "has_denitin_block": "2023-10-29 19:00:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2023-10-29 19:01:11 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/crush_first_gem": {
+    "criteria": {
+      "gem_crushed": "2023-10-29 19:02:30 +0100"
+    },
+    "done": true
+  },
+  "gemperience:gameplay/grind_all_gems": {
+    "criteria": {
+      "ground_ruby": "2023-10-29 19:34:42 +0100",
+      "ground_petrinite_rose": "2023-10-29 19:02:30 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2023-10-29 19:02:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2023-10-29 19:02:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2023-10-29 19:02:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2023-10-29 19:02:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-10-29 19:02:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2023-10-29 19:02:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2023-10-29 19:02:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-10-29 19:02:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2023-10-29 19:02:32 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/ruby_block": {
+    "criteria": {
+      "has_ruby": "2023-10-29 19:34:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2023-10-29 19:34:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2023-10-29 19:34:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2023-10-29 19:34:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-10-29 19:34:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2023-10-29 19:34:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2023-10-29 19:34:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2023-10-29 19:34:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2023-10-29 19:34:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2023-10-29 19:34:41 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

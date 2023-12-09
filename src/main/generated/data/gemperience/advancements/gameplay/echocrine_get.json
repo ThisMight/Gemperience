@@ -1,0 +1,38 @@
+{
+  "parent": "gemperience:gameplay/sculk_chitin_get",
+  "criteria": {
+    "needs_echocrine": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:echocrine_paste"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.echocrine_get.desc"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:echocrine_paste"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.echocrine_get.title"
+    }
+  },
+  "requirements": [
+    [
+      "needs_echocrine"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

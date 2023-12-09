@@ -1,0 +1,63 @@
+{
+  "gemperience:recipes/misc/polished_tarshale_stairs_from_polished_tarshale_stonecutting": {
+    "criteria": {
+      "has_polished_tarshale": "2023-11-22 20:31:31 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/tarshale_bricks": {
+    "criteria": {
+      "has_polished_tarshale": "2023-11-22 20:31:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-11-22 20:31:23 +0100"
+    },
+    "done": false
+  },
+  "gemperience:recipes/building_blocks/polished_tarshale_wall": {
+    "criteria": {
+      "has_polished_tarshale": "2023-11-22 20:31:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-22 20:31:22 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_tarshale_slab": {
+    "criteria": {
+      "has_polished_tarshale": "2023-11-22 20:31:31 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/building_blocks/polished_tarshale_stairs": {
+    "criteria": {
+      "has_polished_tarshale": "2023-11-22 20:31:31 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_wall_from_polished_tarshale_stonecutting": {
+    "criteria": {
+      "has_polished_tarshale": "2023-11-22 20:31:31 +0100"
+    },
+    "done": true
+  },
+  "gemperience:recipes/misc/polished_tarshale_slab_from_polished_tarshale_stonecutting": {
+    "criteria": {
+      "has_polished_tarshale": "2023-11-22 20:31:31 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-11-22 20:31:22 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

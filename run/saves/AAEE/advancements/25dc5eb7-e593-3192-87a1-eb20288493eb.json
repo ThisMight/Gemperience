@@ -1,0 +1,45 @@
+{
+  "gemperience:recipes/misc/glazonium_from_blasting_glazonium_ore": {
+    "criteria": {
+      "has_glazonium_ore": "2023-12-05 20:32:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-12-05 20:31:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:enderman": "2023-12-05 20:32:09 +0100"
+    },
+    "done": false
+  },
+  "gemperience:recipes/misc/glazonium_from_smelting_glazonium_ore": {
+    "criteria": {
+      "has_glazonium_ore": "2023-12-05 20:32:51 +0100"
+    },
+    "done": true
+  },
+  "gemperience:root": {
+    "criteria": {
+      "root_adv_get": "2023-12-05 20:31:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-12-05 20:32:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:enderman": "2023-12-05 20:32:09 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

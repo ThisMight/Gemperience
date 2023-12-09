@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "gemperience:ruby"
+    },
+    "S": {
+      "item": "minecraft:stonecutter"
+    }
+  },
+  "pattern": [
+    "III",
+    "RSR",
+    "CCC"
+  ],
+  "result": {
+    "item": "gemperience:gem_grinder_tier_1"
+  },
+  "show_notification": true
+}

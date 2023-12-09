@@ -1,0 +1,38 @@
+{
+  "parent": "gemperience:gameplay/slagodite_get",
+  "criteria": {
+    "needs_runian": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:runian"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.runian_get.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:runian"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.runian_get.title"
+    }
+  },
+  "requirements": [
+    [
+      "needs_runian"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

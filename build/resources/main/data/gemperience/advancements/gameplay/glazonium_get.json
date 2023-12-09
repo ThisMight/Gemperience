@@ -1,0 +1,38 @@
+{
+  "parent": "gemperience:root",
+  "criteria": {
+    "needs_glazonium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gemperience:glazonium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "adv.gemperience.glazonium_get.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "gemperience:glazonium"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "adv.gemperience.glazonium_get.title"
+    }
+  },
+  "requirements": [
+    [
+      "needs_glazonium"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

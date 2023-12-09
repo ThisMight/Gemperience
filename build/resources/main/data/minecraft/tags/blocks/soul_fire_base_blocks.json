@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "gemperience:runian_ore_sand",
+    "gemperience:runian_ore_soil",
+    "gemperience:runian_block",
+    "gemperience:soulstone",
+    "gemperience:smooth_soulstone",
+    "gemperience:cut_soulstone",
+    "gemperience:chiseled_soulstone",
+    "gemperience:charged_soulstone",
+    "gemperience:charged_cut_soulstone",
+    "gemperience:charged_chiseled_soulstone"
+  ]
+}

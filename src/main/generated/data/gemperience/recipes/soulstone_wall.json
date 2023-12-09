@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "d": {
+      "item": "gemperience:soulstone"
+    }
+  },
+  "pattern": [
+    "ddd",
+    "ddd"
+  ],
+  "result": {
+    "count": 6,
+    "item": "gemperience:soulstone_wall"
+  },
+  "show_notification": true
+}
