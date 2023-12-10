@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "bottom": "gemperience:block/soulstone_top",
-    "side": "gemperience:block/chiseled_soulstone",
-    "top": "gemperience:block/soulstone_top"
-  }
-}

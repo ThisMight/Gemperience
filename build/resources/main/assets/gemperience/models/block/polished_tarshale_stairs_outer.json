@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/outer_stairs",
-  "textures": {
-    "bottom": "gemperience:block/polished_tarshale",
-    "side": "gemperience:block/polished_tarshale",
-    "top": "gemperience:block/polished_tarshale"
-  }
-}

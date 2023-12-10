@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "gemperience:illuminium"
-  },
-  "result": "gemperience:illuminium_brick_stairs"
-}

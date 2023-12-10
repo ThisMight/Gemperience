@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "gemperience:soulstone"
-  },
-  "result": "gemperience:soulstone_wall"
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "gemperience:block/echocrine_stone",
-    "side": "gemperience:block/echocrine_stone",
-    "top": "gemperience:block/echocrine_stone"
-  }
-}

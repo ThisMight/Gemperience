@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 2,
-  "ingredient": {
-    "item": "gemperience:echocrine_stone"
-  },
-  "result": "gemperience:echocrine_stone_slab"
-}

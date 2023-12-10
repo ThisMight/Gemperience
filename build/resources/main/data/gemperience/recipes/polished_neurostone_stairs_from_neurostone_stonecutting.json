@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "gemperience:neurostone"
-  },
-  "result": "gemperience:polished_neurostone_stairs"
-}

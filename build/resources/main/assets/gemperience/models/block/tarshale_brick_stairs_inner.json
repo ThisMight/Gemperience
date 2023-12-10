@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "bottom": "gemperience:block/tarshale_bricks",
-    "side": "gemperience:block/tarshale_bricks",
-    "top": "gemperience:block/tarshale_bricks"
-  }
-}

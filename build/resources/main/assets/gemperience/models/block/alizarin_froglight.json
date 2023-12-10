@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "gemperience:block/alizarin_froglight_top",
-    "side": "gemperience:block/alizarin_froglight_side"
-  }
-}

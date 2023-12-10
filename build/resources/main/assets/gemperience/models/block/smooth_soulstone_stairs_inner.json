@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "bottom": "gemperience:block/soulstone_top",
-    "side": "gemperience:block/soulstone_top",
-    "top": "gemperience:block/soulstone_top"
-  }
-}

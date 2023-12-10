@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "gemperience:block/slagodite_ore_basalt_top",
-    "side": "gemperience:block/slagodite_ore_basalt_side"
-  }
-}

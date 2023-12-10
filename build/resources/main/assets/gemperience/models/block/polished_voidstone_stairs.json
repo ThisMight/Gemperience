@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "gemperience:block/polished_voidstone",
-    "side": "gemperience:block/polished_voidstone",
-    "top": "gemperience:block/polished_voidstone"
-  }
-}

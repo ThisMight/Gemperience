@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "gemperience:block/neurostone_bricks",
-    "side": "gemperience:block/neurostone_bricks",
-    "top": "gemperience:block/neurostone_bricks"
-  }
-}

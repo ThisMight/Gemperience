@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/outer_stairs",
-  "textures": {
-    "bottom": "gemperience:block/charged_soulstone_bottom",
-    "side": "gemperience:block/charged_soulstone",
-    "top": "gemperience:block/soulstone_top"
-  }
-}

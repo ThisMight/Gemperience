@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "gemperience:block/tarshale",
-    "side": "gemperience:block/tarshale",
-    "top": "gemperience:block/tarshale"
-  }
-}

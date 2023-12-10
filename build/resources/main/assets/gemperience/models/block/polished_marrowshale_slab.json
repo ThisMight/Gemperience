@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "gemperience:block/polished_marrowshale",
-    "side": "gemperience:block/polished_marrowshale",
-    "top": "gemperience:block/polished_marrowshale"
-  }
-}

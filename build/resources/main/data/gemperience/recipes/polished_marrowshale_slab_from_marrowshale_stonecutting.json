@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 2,
-  "ingredient": {
-    "item": "gemperience:marrowshale"
-  },
-  "result": "gemperience:polished_marrowshale_slab"
-}

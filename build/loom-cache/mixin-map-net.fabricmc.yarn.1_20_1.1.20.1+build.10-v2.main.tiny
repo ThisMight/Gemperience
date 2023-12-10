@@ -1,3 +1,0 @@
-v1	named	intermediary
-FIELD	com/gemperience/mixin/LivingEntityMixin	Lnet/minecraft/util/math/BlockPos;	lastBlockPos	field_6268
-METHOD	com/gemperience/mixin/LivingEntityMixin	()Lnet/minecraft/entity/LivingEntity;	getAttacker	method_6065

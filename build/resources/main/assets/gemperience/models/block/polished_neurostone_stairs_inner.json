@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "bottom": "gemperience:block/polished_neurostone",
-    "side": "gemperience:block/polished_neurostone",
-    "top": "gemperience:block/polished_neurostone"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "gemperience:item/ghast_tear_in_a_bottle"
-  }
-}

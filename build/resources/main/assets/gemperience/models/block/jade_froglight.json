@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "gemperience:block/jade_froglight_top",
-    "side": "gemperience:block/jade_froglight_side"
-  }
-}
