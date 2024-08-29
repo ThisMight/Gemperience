@@ -6,5 +6,5 @@ This mode repo is for version 1.20.1, it's the most stable version so far, but m
 
 # Team members
 
-- programming: ThisMight, NuclearGoomba
+- programming: ThisMight
 - Art-Design: UnitV952
